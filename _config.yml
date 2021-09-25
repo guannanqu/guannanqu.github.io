@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : #"Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : #"Location"
+  avatar           : "profile.jpeg"
+  bio              : "Assistant Professor of Electrical and Computer Engineering, Carnegie Mellon University"
+  location         : "Porter B20"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao"
