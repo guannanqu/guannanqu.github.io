@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
+<span style="color:blue">some *blue* text</span>.
 
 ## Guannan Qu
 
