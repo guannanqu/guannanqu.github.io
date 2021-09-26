@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:10em;">Guannan Qu</span>
-
+<span style="font-size:10pt;">Guannan Qu</span>  
 Assistant Professor  
 Department of Electrical and Computer Engineering  
 Carnegie Mellon University  
