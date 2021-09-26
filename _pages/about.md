@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-### Guannan Qu
+## Guannan Qu
 
 Assistant Professor  
 Department of Electrical and Computer Engineering  
