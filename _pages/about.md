@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## Guannan Qu
+### Guannan Qu
 
 Assistant Professor  
 Department of Electrical and Computer Engineering  
