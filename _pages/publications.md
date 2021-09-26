@@ -29,7 +29,7 @@ author_profile: true
 - Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang, [Optimal Scheduling of Battery Charging Station Serving Electric Vehicles Based on Battery Swapping](https://nali.seas.harvard.edu/files/nali/files/2017tsgbattery.pdf), *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
 
 ### Conference Publications
-- Guannan Qu*, Yuanyuan Shi*, Sahin Lale*, Anima Anandkumar, Adam Wierman, Stable Online Control of Linear Time-Varying Systems, 3rd Learning for Dynamics and Control Conference. (\* denotes equal contribution)
+- Guannan Qu\*, Yuanyuan Shi\*, Sahin Lale\*, Anima Anandkumar, Adam Wierman, Stable Online Control of Linear Time-Varying Systems, 3rd Learning for Dynamics and Control Conference. (\* denotes equal contribution)
 - Guannan Qu, Yiheng Lin, Adam Wierman, Na Li, Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward, NeurIPS 2020.
 - Andreas Venzke, Guannan Qu, Steven Low, Spyros Chatzivasileiadis, Learning Optimal Power Flow: Worst-Case Guarantees for Neural Networks, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020.
 - Niloy Patari, Anurag Srivastava, Guannan Qu, Na Li, Distributed Optimal Voltage Control for Three Phase Unbalanced Distribution Systems with DERs, IEEE Industry Applications Annual Meeting, 2020.
