@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:blue">some *blue* text</span>.
-
-## Guannan Qu
+<span style="font-family:Papyrus; font-size:4em;">Guannan Qu</span>
 
 Assistant Professor  
 Department of Electrical and Computer Engineering  
