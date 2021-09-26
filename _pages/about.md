@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-family:Papyrus; font-size:5em;">Guannan Qu</span>
+<span style="font-size:10em;">Guannan Qu</span>
 
 Assistant Professor  
 Department of Electrical and Computer Engineering  
