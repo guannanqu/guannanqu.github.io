@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Guannan Qu
 Assistant Professor  
 Department of Electrical and Computer Engineering  
 Carnegie Mellon University  
