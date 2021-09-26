@@ -11,6 +11,9 @@ redirect_from:
 Assistant Professor  
 Department of Electrical and Computer Engineering  
 Carnegie Mellon University  
+Contact: gqu [at] andrew.cmu.edu  
+Office: Porter B22
+
 
 I am an assistant professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
 
@@ -18,7 +21,10 @@ I am broadly interested in the theory of control, optimization, learning, and th
 
 **I am actively looking for students, visiters and postdocs to join my group. If you are are interested in working with me, feel free to reach out!**
 
-**Contact:** gqu [at] andrew.cmu.edu
+### Recent research highlights
+- Regret bounds for predictive control of linear time-varying systems: [link to preprint](https://arxiv.org/pdf/2106.10497.pdf)
+- Review paper on RL for power systems: [link to preprint](https://arxiv.org/abs/2102.01168)
+- Multi-agent RL for networked systems: [link to preprint](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing)
 
 ### Updates 
 
