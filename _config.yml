@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.jpeg"
-  bio              : "Assistant Professor of Electrical and Computer Engineering, Carnegie Mellon University"
+  bio              : "Assistant Professor of ECE at CMU"
   location         : "Porter B20"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
