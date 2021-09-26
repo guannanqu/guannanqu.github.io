@@ -10,8 +10,10 @@ redirect_from:
 
 ### Guannan Qu
 Assistant Professor  
-Department of Electrical and Computer Engineering. 
-Carnegie Mellon University. 
+Department of Electrical and Computer Engineering  
+Carnegie Mellon University  
+
+**Contact:** gqu [at] andrew.cmu.edu
 
 I am an assistant professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
 
