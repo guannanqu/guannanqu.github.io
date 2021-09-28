@@ -19,7 +19,7 @@ I am an assistant professor at the Department of Electrical and Computer Enginee
 
 I am broadly interested in the theory of control, optimization, learning, and the interplay between control and learning. Particularly, my recent research focuses on developing frameworks and principles that combine methods in model-based control (LQR, robust control, etc.) and model-free RL (Q-learning, policy gradient methods, etc). These two sets of methods are developed based on very different philosophies, yet I believe the two have their unique advantages that complement each other very well, and therefore the combination of the two will yield powerful algorithms that can achieve the best of both worlds. During my Ph.D., I mainly worked on distributed optimization, online control, distributed control, etc. On the practical side, my research is driven by applications like energy/power systems, IoT, transportation systems, robot teams, etc.
 
-**I am actively looking for students, visiters and postdocs to join my group. If you are are interested in working with me, feel free to reach out!**
+**I am actively looking for students, visiters and postdocs to join my group. If you are interested in working with me, feel free to reach out!**
 
 ### Recent research highlights
 - Regret bounds for predictive control of linear time-varying systems ([link](https://arxiv.org/pdf/2106.10497.pdf))
