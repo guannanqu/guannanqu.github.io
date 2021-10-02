@@ -8,12 +8,11 @@ author_profile: true
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ### Preprints 
-- Yiheng Lin\*, Yang Hu\*, Haoyuan Sun\*, Guanya Shi\*, Guannan Qu\*, Adam Wierman, [Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems](https://arxiv.org/pdf/2106.10497.pdf), preprint. (\* denotes equal contribution)
 - Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
 ](https://arxiv.org/pdf/2106.09659), preprint.
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), preprint.
 - Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing), submitted to *Operations Research*.
-- Yiheng Lin, Guannan Qu, Longbo Huang, Adam Wierman, [Multi-Agent Reinforcement Learning in Time-varying Networked Systems](https://arxiv.org/abs/2006.06555), preprint.
+
 
 ### Journal Publications
 - Niloy Patari, Anurag K Srivastava, Guannan Qu, Na Li, [Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems with DERs and Practical Constraints](https://ieeexplore.ieee.org/document/9543520), accepted to *IEEE Transactions on Industry Applications*.
@@ -29,6 +28,8 @@ author_profile: true
 - Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang, [Optimal Scheduling of Battery Charging Station Serving Electric Vehicles Based on Battery Swapping](https://nali.seas.harvard.edu/files/nali/files/2017tsgbattery.pdf), *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
 
 ### Conference Publications
+- Yiheng Lin\*, Yang Hu\*, Haoyuan Sun\*, Guanya Shi\*, Guannan Qu\*, Adam Wierman, [Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems](https://arxiv.org/pdf/2106.10497.pdf), accepted to NeurIPS 2021 **spotlight**. (\* denotes equal contribution)
+- - Yiheng Lin, Guannan Qu, Longbo Huang, Adam Wierman, [Multi-Agent Reinforcement Learning in Stochastic Networked Systems](https://arxiv.org/abs/2006.06555), accepted to NeurIPS 2021.
 - Guannan Qu\*, Yuanyuan Shi\*, Sahin Lale\*, Anima Anandkumar, Adam Wierman, Stable Online Control of Linear Time-Varying Systems, 3rd Learning for Dynamics and Control Conference. (\* denotes equal contribution)
 - Guannan Qu, Yiheng Lin, Adam Wierman, Na Li, Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward, NeurIPS 2020.
 - Andreas Venzke, Guannan Qu, Steven Low, Spyros Chatzivasileiadis, Learning Optimal Power Flow: Worst-Case Guarantees for Neural Networks, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020.
