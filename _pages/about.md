@@ -24,7 +24,7 @@ I am broadly interested in the theory of control, optimization, learning, and th
 ### Recent research highlights
 - Regret bounds for predictive control of linear time-varying systems ([link](https://arxiv.org/pdf/2106.10497.pdf))
 - Review paper on RL for power systems ([link](https://arxiv.org/abs/2102.01168)), stable RL for voltage control ([link](https://arxiv.org/abs/2109.14854))
-- Multi-agent RL for networked systems ([link](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing))
+- Multi-agent RL for networked systems ([link](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing)), average reward case ([link](https://proceedings.neurips.cc//paper/2020/file/168efc366c449fab9c2843e9b54e2a18-Paper.pdf)), stochastic network case ([link](https://arxiv.org/abs/2006.06555))
 
 ### Updates 
 - Oct 2021: Our paper on scalable multi-agent RL for networked systems ([link](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing)) has been accepted to *Operations Research*!
