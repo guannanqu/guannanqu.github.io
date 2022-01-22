@@ -17,11 +17,11 @@ Office: Porter B22
 
 I am an assistant professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
 
-I am broadly interested in the theory of control, optimization, learning, and the interplay between control and learning. Particularly, my recent research focuses on developing frameworks and principles that combine methods in model-based control (LQR, robust control, etc.) and model-free RL (Q-learning, policy gradient methods, etc). These two sets of methods are developed based on very different philosophies, yet I believe the two have their unique advantages that complement each other very well, and therefore the combination of the two will yield powerful algorithms that can achieve the best of both worlds. During my Ph.D., I mainly worked on distributed optimization, online control, distributed control, etc. On the practical side, my research is driven by applications like energy/power systems, IoT, transportation systems, robot teams, etc.
+I am broadly interested in the control, optimization, and machine learning. Particularly, my recent research focuses on developing frameworks that take advantages of the methods and philosophies in both control theory (LQR, robust control, MPC, etc) and RL (Q-learning, policy gradient methods, etc). These two sets of methods are developed based on very different philosophies, yet I believe the two have their unique advantages that complement each other very well, and therefore the combination of the two will yield powerful algorithms that can achieve the best of both worlds. Another focus of my research is on multi-agent networked systems, particularly how to develop scalable and localized decision rules for the coordination of heterogeneous agents. On the practical side, my research is driven by applications like energy/power systems, IoT, transportation systems, robot teams, etc.
 
 **I am actively looking for students, visitors and postdocs to join my group. If you are interested in working with me, feel free to reach out!**
 
-### Recent research highlights
+### Research highlights
 - Learning and control
   - Regret bounds for predictive control of linear time-varying systems ([link](https://arxiv.org/pdf/2106.10497.pdf))
   - Combining model-based and learning based controllers ([paper 1](https://arxiv.org/pdf/2106.09659.pdf), [paper 2](https://arxiv.org/pdf/2006.07476))
@@ -30,6 +30,10 @@ I am broadly interested in the theory of control, optimization, learning, and th
   - stable RL for voltage control ([link](https://arxiv.org/abs/2109.14854))
 
 - Multi-agent RL for networked systems ([link](https://arxiv.org/abs/1912.02906)), average reward case ([link](https://proceedings.neurips.cc//paper/2020/file/168efc366c449fab9c2843e9b54e2a18-Paper.pdf)), stochastic network case ([link](https://arxiv.org/abs/2006.06555))
+
+- Optimization
+  - Distributed optimization, particularly the analysis of the gradient tracking idea [link](https://arxiv.org/pdf/1605.07112.pdf) and its accelerated version [link](https://arxiv.org/pdf/1705.07176.pdf)
+  - Exponential stability (aka linear convergence) of the primal-dual gradient algorithm ([paper1](https://arxiv.org/pdf/1803.01825.pdf), [paper 2](https://arxiv.org/pdf/1903.09580.pdf))
 
 ### Updates 
 - Oct 2021: Our paper on scalable multi-agent RL for networked systems ([link](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing)) has been accepted to *Operations Research*!
