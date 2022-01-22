@@ -8,14 +8,12 @@ author_profile: true
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ### Preprints 
-- Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
-](https://arxiv.org/pdf/2106.09659), preprint.
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), preprint.
 - Yuanyuan Shi\*, Guannan Qu\*, Steven Low, Anima Anandkumar, Adam Wierman, [Stability Constrained Reinforcement Learning for Real-Time Voltage Control
 ](https://arxiv.org/abs/2109.14854), preprint. (\* denotes equal contribution)
 
 ### Journal Publications
-- Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://drive.google.com/file/d/1Habyv4j7qUFRuY0jVIFdjc9jthGtXtk_/view?usp=sharing), accepted to *Operations Research*.
+- Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), accepted to *Operations Research*.
 - Niloy Patari, Anurag K Srivastava, Guannan Qu, Na Li, [Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems with DERs and Practical Constraints](https://ieeexplore.ieee.org/document/9543520), accepted to *IEEE Transactions on Industry Applications*.
 - Yingying Li, Guannan Qu and Na Li, [Using predictions in online optimization with switching costs: Algorithms and Fundamental Limits](https://arxiv.org/abs/1801.07780), *IEEE Transactions on Automatic Control*, vol. 66, no. 10, pp. 4761 - 4768, Oct. 2021. 
 - Yujie Tang, Guannan Qu and Na Li, [Semi-Global Exponential Stability of Primal-Dual Gradient Dynamics for Constrained Convex Optimization](https://arxiv.org/abs/1903.09580), accepted to *Systems & Control Letters*.
@@ -29,6 +27,8 @@ author_profile: true
 - Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang, [Optimal Scheduling of Battery Charging Station Serving Electric Vehicles Based on Battery Swapping](https://nali.seas.harvard.edu/files/nali/files/2017tsgbattery.pdf), *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
 
 ### Conference Publications
+- Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
+](https://arxiv.org/pdf/2106.09659), accepted to ACM SIGMETRICS 2022.
 - Yiheng Lin\*, Yang Hu\*, Haoyuan Sun\*, Guanya Shi\*, Guannan Qu\*, Adam Wierman, [Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems](https://arxiv.org/pdf/2106.10497.pdf), accepted to NeurIPS 2021 **spotlight**. (\* denotes equal contribution)
 - Yiheng Lin, Guannan Qu, Longbo Huang, Adam Wierman, [Multi-Agent Reinforcement Learning in Stochastic Networked Systems](https://arxiv.org/abs/2006.06555), accepted to NeurIPS 2021.
 - Guannan Qu\*, Yuanyuan Shi\*, Sahin Lale\*, Anima Anandkumar, Adam Wierman, Stable Online Control of Linear Time-Varying Systems, 3rd Learning for Dynamics and Control Conference. (\* denotes equal contribution)
