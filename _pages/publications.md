@@ -9,8 +9,7 @@ author_profile: true
 
 ### Preprints 
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), preprint.
-- Yuanyuan Shi\*, Guannan Qu\*, Steven Low, Anima Anandkumar, Adam Wierman, [Stability Constrained Reinforcement Learning for Real-Time Voltage Control
-](https://arxiv.org/abs/2109.14854), preprint. (\* denotes equal contribution)
+
 
 ### Journal Publications
 - Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), accepted to *Operations Research*.
@@ -27,6 +26,8 @@ author_profile: true
 - Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang, [Optimal Scheduling of Battery Charging Station Serving Electric Vehicles Based on Battery Swapping](https://nali.seas.harvard.edu/files/nali/files/2017tsgbattery.pdf), *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
 
 ### Conference Publications
+- Yuanyuan Shi\*, Guannan Qu\*, Steven Low, Anima Anandkumar, Adam Wierman, [Stability Constrained Reinforcement Learning for Real-Time Voltage Control
+](https://arxiv.org/abs/2109.14854), accepted to American Control Conference 2022. (\* denotes equal contribution)
 - Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
 ](https://arxiv.org/pdf/2106.09659), accepted to ACM SIGMETRICS 2022.
 - Yiheng Lin\*, Yang Hu\*, Haoyuan Sun\*, Guanya Shi\*, Guannan Qu\*, Adam Wierman, [Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems](https://arxiv.org/pdf/2106.10497.pdf), accepted to NeurIPS 2021 **spotlight**. (\* denotes equal contribution)
