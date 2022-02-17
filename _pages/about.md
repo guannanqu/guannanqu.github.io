@@ -23,6 +23,7 @@ I am broadly interested in the control, optimization, and machine learning. Part
 
 ### Research highlights
 - Learning and control
+  - NEW: Sample complexity of stabilizing LIT systems ([link](https://arxiv.org/abs/2202.07187))
   - Regret bounds for predictive control of linear time-varying systems ([link](https://arxiv.org/pdf/2106.10497.pdf))
   - Combining model-based and learning based controllers ([paper 1](https://arxiv.org/pdf/2106.09659.pdf), [paper 2](https://arxiv.org/pdf/2006.07476))
 - Multi-agent RL for networked systems ([link](https://arxiv.org/abs/1912.02906)), average reward case ([link](https://proceedings.neurips.cc//paper/2020/file/168efc366c449fab9c2843e9b54e2a18-Paper.pdf)), stochastic network case ([link](https://arxiv.org/abs/2006.06555))
