@@ -8,6 +8,7 @@ author_profile: true
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ### Preprints 
+- Yang Hu, Adam Wierman, Guannan Qu, [On the Sample Complexity of Stabilizing LTI Systems on a Single Trajectory](https://arxiv.org/abs/2202.07187), preprint. 
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), preprint.
 
 
