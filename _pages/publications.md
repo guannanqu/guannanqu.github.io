@@ -9,10 +9,10 @@ author_profile: true
 
 ### Preprints 
 - Yang Hu, Adam Wierman, Guannan Qu, [On the Sample Complexity of Stabilizing LTI Systems on a Single Trajectory](https://arxiv.org/abs/2202.07187), preprint. 
-- Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), preprint.
 
 
 ### Journal Publications
+- Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), accepted to *IEEE Transactions on Smart Grid*.
 - Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), accepted to *Operations Research*.
 - Niloy Patari, Anurag K Srivastava, Guannan Qu, Na Li, [Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems with DERs and Practical Constraints](https://ieeexplore.ieee.org/document/9543520), accepted to *IEEE Transactions on Industry Applications*.
 - Yingying Li, Guannan Qu and Na Li, [Using predictions in online optimization with switching costs: Algorithms and Fundamental Limits](https://arxiv.org/abs/1801.07780), *IEEE Transactions on Automatic Control*, vol. 66, no. 10, pp. 4761 - 4768, Oct. 2021. 
