@@ -5,6 +5,6 @@ permalink: /people/
 author_profile: true
 ---
 
-** PhD Students **
+**PhD Students**
 - Alex Deweese
 - Ziyi Zhang (co-advised with Yorie Nakahira)
