@@ -35,5 +35,11 @@ I am broadly interested in the control, optimization, and machine learning. Part
   - Exponential stability (aka linear convergence) of the primal-dual gradient algorithm ([paper1](https://arxiv.org/pdf/1803.01825.pdf), [paper 2](https://arxiv.org/pdf/1903.09580.pdf))
 
 ### Updates 
-- Oct 2021: Our paper on scalable multi-agent RL for networked systems ([link](https://arxiv.org/abs/1912.02906)) has been accepted to *Operations Research*!
-- Sept 2021: I am starting at CMU as an assistant professor! 
+- October 2022: two new members joined my group. Welcome, Alex and Ziyi!  
+- September 2022: two new papers accepted to NeurIPS 2022
+  - one on the sample complexity of stabilizing LTI systems ([link](https://arxiv.org/abs/2202.07187))
+  - the other one on the regret bounds for general MPC algorithms (coming soon!)
+- May 2022: one new paper in ICML 2022 on Decentralized Online Convex Optimization in Networked Systems ([link](https://arxiv.org/abs/2207.05950))
+- April 2022: new paper online on  near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))
+- October 2021: Our paper on scalable multi-agent RL for networked systems ([link](https://arxiv.org/abs/1912.02906)) has been accepted to *Operations Research*!
+- September 2021: I am starting at CMU as an assistant professor! 
