@@ -9,11 +9,13 @@ The research in my group strives to develop theories that make machine learning 
 Some of research projects are listed below. 
 
 **Learn to Stabilize** 
+
 Machine learning has been applied to control systems to learn to control an unknown system with provable performance guarantee (e.g. regret, competitive ratio). However, in addition to performance, an equally important property of control systems is *stability*, without which there is no performance to even talk about. In this project, we investigate the ``learn to stabilize'' problem for an unknown system, and study fundamental questions like sample complexity. 
 
 - Yang Hu, Adam Wierman, Guannan Qu, On the Sample complexity of stabilizing LTI systems on a Singlle Trajectory, NeurIPS 2022 ([link](https://arxiv.org/abs/2202.07187))
 
 **RL for Networked Systems**
+
 Reinforcement Learning (RL) has achieved many sucess in single-agent systems, but its application to large scale networked systems face a major obstacle: scalability. Put more concretely, the scalibity issue lies in that the state or action space of such networked systems can be exponentially large in the number of nodes. In this project, we investigate how we can use the network structure to make RL scalable for networked systems. 
 
 - Guannan Qu, Adam Wierman, Na Li, Scalable Reinforcement Learning for Multi-Agent Networked Systems, Operations Research 2021 ([link](https://arxiv.org/abs/1912.02906))
@@ -37,6 +39,7 @@ Perturbation-based regret analysis of predictive control in linear time varying 
 
 
 **Bridging Model-based and Model-Free Methods**
+
 Traditional controller synthesis typicalls starts with a first-princeples model and designs a controller with provable stability and robustness guarantee. In contrast, recent RL approaches do not assume a model and learns a controller (often times neural network based) in a data driven manner, which experimentally can perform well even for complex dynamical systems. However, the RL approach is often data and computation heavy, requires extensive tuning, and lacks provable guarantess. In this project, we seek to combine both approaches and achieve the best of both worlds. 
 
 - Guannan Qu, Chenkai Yu, Steven Low, Adam Wierman, Exploiting Linear Models for Model-Free Nonlinear Control: A Provably Convergent Policy Gradient Approach ([link](https://arxiv.org/pdf/2006.07476))
@@ -46,6 +49,7 @@ Traditional controller synthesis typicalls starts with a first-princeples model 
 
 
 **Application: power systems**
+
 Many of our research is inspired by applications in power systems, particularly distributed control and coordination of distributed energy resources. Here is a list of relevant power system publications. 
 
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision, accepted to IEEE Transactions on Smart Grid. ([link](https://arxiv.org/abs/2102.01168))
@@ -66,6 +70,7 @@ Many of our research is inspired by applications in power systems, particularly 
 
 
 **Optimization Theory**
+
   - Distributed optimization, particularly the analysis of the gradient tracking idea ([link](https://arxiv.org/pdf/1605.07112.pdf)) and its accelerated version ([link](https://arxiv.org/pdf/1705.07176.pdf))
   - Exponential stability (aka linear convergence) of the primal-dual gradient algorithm ([paper1](https://arxiv.org/pdf/1803.01825.pdf), [paper 2](https://arxiv.org/pdf/1903.09580.pdf))
 
