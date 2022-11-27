@@ -7,11 +7,22 @@ author_profile: true
 
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
-### Preprints 
-- Yang Hu, Adam Wierman, Guannan Qu, [On the Sample Complexity of Stabilizing LTI Systems on a Single Trajectory](https://arxiv.org/abs/2202.07187), preprint. 
+### Machine Learning Conference Publications 
+- Yang Hu, Adam Wierman, Guannan Qu, [On the Sample Complexity of Stabilizing LTI Systems on a Single Trajectory](https://arxiv.org/abs/2202.07187), NeurIPS 2022. 
+- Yiheng Lin, Yang Hu, Guannan Qu, Tongxin Li, Adam Wierman, [Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity](https://arxiv.org/abs/2210.12312), NeurIPS 2022.
+- Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
+](https://arxiv.org/pdf/2106.09659), ACM SIGMETRICS 2022.
+- Yiheng Lin, Judy Gan, Guannan Qu, Yash Kanoria, Adam Wierman, [Decentralized Online Convex Optimization in Networked Systems](https://proceedings.mlr.press/v162/lin22c/lin22c.pdf), ICML 2022.
+- Yiheng Lin\*, Yang Hu\*, Haoyuan Sun\*, Guanya Shi\*, Guannan Qu\*, Adam Wierman, [Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems](https://arxiv.org/pdf/2106.10497.pdf), NeurIPS 2021 **spotlight**. (\* denotes equal contribution)
+- Yiheng Lin, Guannan Qu, Longbo Huang, Adam Wierman, [Multi-Agent Reinforcement Learning in Stochastic Networked Systems](https://arxiv.org/abs/2006.06555), NeurIPS 2021.
+- Guannan Qu, Yiheng Lin, Adam Wierman, Na Li, Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward, NeurIPS 2020.
+- Guannan Qu and Adam Wierman, [Finite-Time Analysis of Asynchronous Stochastic Approximation and Q-learning](https://arxiv.org/abs/2002.00260), Conference on Learning Theory (COLT) 2020.
+- Guannan Qu, Adam Wierman and Na Li, [Scalable Reinforcement Learning of Localized Policies for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), 2nd Learning for Dynamics and Control Conference, oral presentation (top 10%).
+
 
 
 ### Journal Publications
+- Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, Mihai Anitescu, [Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems](https://arxiv.org/pdf/2204.05551.pdf), accepted to SIAM Journal on Control and Optimization. 
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), accepted to *IEEE Transactions on Smart Grid*.
 - Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), accepted to *Operations Research*.
 - Niloy Patari, Anurag K Srivastava, Guannan Qu, Na Li, [Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems with DERs and Practical Constraints](https://ieeexplore.ieee.org/document/9543520), accepted to *IEEE Transactions on Industry Applications*.
@@ -26,19 +37,12 @@ author_profile: true
 - Guannan Qu, David Brown, and Na Li, [Distributed Greedy Algorithm for Multi-Agent Task Assignment Problem with Submodular Utility Functions](https://www.sciencedirect.com/science/article/pii/S0005109819301281), *Automatica*, vol 105, pp. 206-215, July 2019.
 - Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang, [Optimal Scheduling of Battery Charging Station Serving Electric Vehicles Based on Battery Swapping](https://nali.seas.harvard.edu/files/nali/files/2017tsgbattery.pdf), *IEEE Transactions on Smart Grid*, vol. 10, no. 2, pp. 1372-1384, March 2019.
 
-### Conference Publications
+### Other Conference Publications
 - Yuanyuan Shi\*, Guannan Qu\*, Steven Low, Anima Anandkumar, Adam Wierman, [Stability Constrained Reinforcement Learning for Real-Time Voltage Control
-](https://arxiv.org/abs/2109.14854), accepted to American Control Conference 2022. (\* denotes equal contribution)
-- Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
-](https://arxiv.org/pdf/2106.09659), accepted to ACM SIGMETRICS 2022.
-- Yiheng Lin\*, Yang Hu\*, Haoyuan Sun\*, Guanya Shi\*, Guannan Qu\*, Adam Wierman, [Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems](https://arxiv.org/pdf/2106.10497.pdf), accepted to NeurIPS 2021 **spotlight**. (\* denotes equal contribution)
-- Yiheng Lin, Guannan Qu, Longbo Huang, Adam Wierman, [Multi-Agent Reinforcement Learning in Stochastic Networked Systems](https://arxiv.org/abs/2006.06555), accepted to NeurIPS 2021.
+](https://arxiv.org/abs/2109.14854), American Control Conference 2022. (\* denotes equal contribution)
 - Guannan Qu\*, Yuanyuan Shi\*, Sahin Lale\*, Anima Anandkumar, Adam Wierman, Stable Online Control of Linear Time-Varying Systems, 3rd Learning for Dynamics and Control Conference. (\* denotes equal contribution)
-- Guannan Qu, Yiheng Lin, Adam Wierman, Na Li, Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward, NeurIPS 2020.
 - Andreas Venzke, Guannan Qu, Steven Low, Spyros Chatzivasileiadis, Learning Optimal Power Flow: Worst-Case Guarantees for Neural Networks, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020.
 - Niloy Patari, Anurag Srivastava, Guannan Qu, Na Li, Distributed Optimal Voltage Control for Three Phase Unbalanced Distribution Systems with DERs, IEEE Industry Applications Annual Meeting, 2020.
-- Guannan Qu and Adam Wierman, [Finite-Time Analysis of Asynchronous Stochastic Approximation and Q-learning](https://arxiv.org/abs/2002.00260), Conference on Learning Theory (COLT) 2020.
-- Guannan Qu, Adam Wierman and Na Li, [Scalable Reinforcement Learning of Localized Policies for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), 2nd Learning for Dynamics and Control Conference, oral presentation (top 10%).
 - Guannan Qu and Na Li, [Exploiting fast decaying and locality in multi-agent mdp with tree dependence structure](https://arxiv.org/abs/1909.06900), IEEE Conference on Decision and Control, 2019.
 - Yingying Li, Aoxiao Zhong, Guannan Qu, and Na Li, [Online Markov Decision Processes with Time-varying Transition Probabilities and Rewards](https://realworld-sdm.github.io/paper/25.pdf), ICML 2019 Real-world Sequential Decision Making workshop.
 - Yingying Li, Guannan Qu and Na Li, Using predictions in online optimization with switching costs: Algorithms and Fundamental Limits, American Control Conference 2018.

@@ -22,11 +22,11 @@ I am broadly interested in the control, optimization, and machine learning. Part
 **I am expected to recurit 1-2 students in the Fall 2023 admision cycle. If you are interested in working with me, feel free to reach out!**
 
 ### Updates 
+- November 2022: Our paper ``Near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))'' has been accepted to SIAM Journal on Control and Optimization. 
 - October 2022: two new members joined my group. Welcome, Alex and Ziyi!  
 - September 2022: two new papers accepted to NeurIPS 2022
   - On the sample complexity of stabilizing LTI systems on a single trajectory ([link](https://arxiv.org/abs/2202.07187))
-  - Bounded-regret MPC via perturbation analysis: prediction error, constraints, and nonlinearity (coming soon!)
+  - Bounded-regret MPC via perturbation analysis: prediction error, constraints, and nonlinearity ([link](https://arxiv.org/abs/2210.12312))
 - May 2022: one new paper in ICML 2022: Decentralized Online Convex Optimization in Networked Systems ([link](https://arxiv.org/abs/2207.05950))
-- April 2022: new paper online: Near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))
 - October 2021: Our paper on scalable multi-agent RL for networked systems ([link](https://arxiv.org/abs/1912.02906)) has been accepted to *Operations Research*!
 - September 2021: I am starting at CMU as an assistant professor! 
