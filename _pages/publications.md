@@ -23,11 +23,11 @@ author_profile: true
 
 ### Journal Publications
 - Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, Mihai Anitescu, [Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems](https://arxiv.org/pdf/2204.05551.pdf), accepted to SIAM Journal on Control and Optimization. 
-- Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), accepted to *IEEE Transactions on Smart Grid*.
+- Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, [Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168), *IEEE Transactions on Smart Grid*, vol. 13, no. 4, July 2022.
 - Guannan Qu, Adam Wierman, Na Li, [Scalable Reinforcement Learning for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906), accepted to *Operations Research*.
-- Niloy Patari, Anurag K Srivastava, Guannan Qu, Na Li, [Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems with DERs and Practical Constraints](https://ieeexplore.ieee.org/document/9543520), accepted to *IEEE Transactions on Industry Applications*.
+- Niloy Patari, Anurag K Srivastava, Guannan Qu, Na Li, [Distributed Voltage Control for Three-Phase Unbalanced Distribution Systems with DERs and Practical Constraints](https://ieeexplore.ieee.org/document/9543520), *IEEE Transactions on Industry Applications*, vol. 57, no. 6, Nov.-Dec. 2021
 - Yingying Li, Guannan Qu and Na Li, [Using predictions in online optimization with switching costs: Algorithms and Fundamental Limits](https://arxiv.org/abs/1801.07780), *IEEE Transactions on Automatic Control*, vol. 66, no. 10, pp. 4761 - 4768, Oct. 2021. 
-- Yujie Tang, Guannan Qu and Na Li, [Semi-Global Exponential Stability of Primal-Dual Gradient Dynamics for Constrained Convex Optimization](https://arxiv.org/abs/1903.09580), accepted to *Systems & Control Letters*.
+- Yujie Tang, Guannan Qu and Na Li, [Semi-Global Exponential Stability of Primal-Dual Gradient Dynamics for Constrained Convex Optimization](https://arxiv.org/abs/1903.09580), *Systems & Control Letters*, vol. 144, Oct. 2020.
 - Sindri Magnússon, Guannan Qu and Na Li, [Distributed Optimal Voltage Control with Asynchronous and Delayed Communication](https://arxiv.org/abs/1903.01065), *IEEE Transactions on Smart Grid*, vol. 11, no. 4, pp. 3469 - 3482, July 2020.
 - Guannan Qu and Na Li, [Optimal Distributed Feedback Voltage Control under Limited Reactive Power](https://arxiv.org/abs/1810.11121), *IEEE Transactions on Power Systems*, vol. 35, no. 1, pp. 315 - 331, January 2020.
 - Guannan Qu and Na Li, [Accelerated Distributed Nesterov Gradient Descent](https://arxiv.org/abs/1705.07176), *IEEE Transactions on Automatic Control*, vol. 65, no. 6, pp. 2566 - 2581, June 2020.

@@ -14,7 +14,7 @@ Machine learning has been applied to control systems to learn to control an unkn
 
 - Yang Hu, Adam Wierman, Guannan Qu, On the Sample complexity of stabilizing LTI systems on a Singlle Trajectory, NeurIPS 2022 ([link](https://arxiv.org/abs/2202.07187))
 
-**RL for Networked Systems**
+**Learning and Control for Networked Systems**
 
 Reinforcement Learning (RL) has achieved many sucess in single-agent systems, but its application to large scale networked systems face a major obstacle: scalability. Put more concretely, the scalibity issue lies in that the state or action space of such networked systems can be exponentially large in the number of nodes. In this project, we investigate how we can use the network structure to make RL scalable for networked systems. 
 
@@ -26,6 +26,14 @@ As an application, we have also applied RL to power systems.
 
 - Review paper on RL for power systems ([link](https://arxiv.org/abs/2102.01168))
 - Stable RL for voltage control ([link](https://arxiv.org/abs/2109.14854))
+
+Even without learning, the control of a networked systems is already a challenging problem. To that end, I have developed fundamental theories regarding how to design distributed algorithms for control and optimization of networked systems using only local information and local communication. 
+
+- Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, Mihai Anitescu, [Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems](https://arxiv.org/pdf/2204.05551.pdf), accepted to SIAM Journal on Control and Optimization. 
+- Yiheng Lin, Judy Gan, Guannan Qu, Yash Kanoria, Adam Wierman, [Decentralized Online Convex Optimization in Networked Systems](https://proceedings.mlr.press/v162/lin22c/lin22c.pdf), ICML 2022.
+- Guannan Qu and Na Li, [Accelerated Distributed Nesterov Gradient Descent](https://arxiv.org/abs/1705.07176), *IEEE Transactions on Automatic Control*, vol. 65, no. 6, pp. 2566 - 2581, June 2020.
+- Guannan Qu and Na Li, [Harnessing Smoothness to Accelerate Distributed Optimization](https://arxiv.org/abs/1605.07112), *IEEE Transactions on Control of Network Systems*, vol. 5, no. 3, pp. 1245-1260, Sept. 2018.
+
 
 **Model Predictive Control**
 
