@@ -23,6 +23,7 @@ I am broadly interested in control, optimization, and machine learning. Particul
 **I am expected to recurit 1-2 students in the Fall 2023 admision cycle. If you are interested in working with me, feel free to reach out!**
 
 ### Updates 
+- December 2022: Our paper ``Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning'' ([link](https://arxiv.org/abs/2211.17116)) has been accepted to SIGMETRICS 2023!
 - November 2022: Our paper ``Near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))'' has been accepted to SIAM Journal on Control and Optimization. 
 - October 2022: two new members joined my group. Welcome, Alex and Ziyi!  
 - September 2022: two new papers accepted to NeurIPS 2022

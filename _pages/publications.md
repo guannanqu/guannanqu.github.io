@@ -8,6 +8,7 @@ author_profile: true
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ### Machine Learning Conference Publications 
+- Yizhou Zhang\*, Guannan Qu\*, Pan Xu\*, Yiheng Lin, Zaiwei Chen, Adam Wierman, [Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2211.17116), ACM SIGMETRICS 2023. (\* equal contribution)
 - Yang Hu, Adam Wierman, Guannan Qu, [On the Sample Complexity of Stabilizing LTI Systems on a Single Trajectory](https://arxiv.org/abs/2202.07187), NeurIPS 2022. 
 - Yiheng Lin, Yang Hu, Guannan Qu, Tongxin Li, Adam Wierman, [Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity](https://arxiv.org/abs/2210.12312), NeurIPS 2022.
 - Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, [Robustness and Consistency in Linear Quadratic Control with Predictions
