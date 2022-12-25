@@ -22,6 +22,7 @@ Reinforcement Learning (RL) has achieved many sucess in single-agent systems, bu
 - Guannan Qu, Yiheng Lin, Adam Wierman, Na Li, Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward, NeurIPS 2020 ([link](https://proceedings.neurips.cc//paper/2020/file/168efc366c449fab9c2843e9b54e2a18-Paper.pdf))
 - Yiheng Lin, Guannan Qu, Longbo Huang, Adam Wierman, Multi-Agent Reinforcement Learning in Stochastic Networked Systems, NeurIPS 2021. ([link](https://arxiv.org/abs/2006.06555))
 - Yizhou Zhang\*, Guannan Qu\*, Pan Xu\*, Yiheng Lin, Zaiwei Chen, Adam Wierman, [Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2211.17116), ACM SIGMETRICS 2023. (\* equal contribution)
+
 As an application, we have also applied RL to power systems. 
 
 - Review paper on RL for power systems ([link](https://arxiv.org/abs/2102.01168))
