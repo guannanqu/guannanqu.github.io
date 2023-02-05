@@ -19,6 +19,7 @@ I am an assistant professor at the Department of Electrical and Computer Enginee
 
 I am broadly interested in control, optimization, and machine learning. Particularly, I strive to develop theories that make machine learning applicable in real-world large scale engineering systems. My research is interdisciplinary in nature that develops new mathematical tools in machine/reinforcement learning, control theory, optimization, network science and applies these tools to cyber physical systems, power systems, transportation systems, robotics and beyond, with provable performance and resilience guarantee. For more details, please see the [research](research) page. 
 
+My CV can be found [here](https://drive.google.com/file/d/1-6z3Fj8LDB3LU7hiwQoOiCEigy5d7g0Z/view?usp=sharing) (updated in Feb 2023).
 
 **I am expected to recurit 1-2 students in the Fall 2023 admision cycle. If you are interested in working with me, feel free to reach out!**
 
