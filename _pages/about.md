@@ -19,17 +19,27 @@ I am an assistant professor at the Department of Electrical and Computer Enginee
 
 I am broadly interested in control, optimization, and machine learning. Particularly, I strive to develop theories that make machine learning applicable in real-world large scale engineering systems. My research is interdisciplinary in nature that develops new mathematical tools in machine/reinforcement learning, control theory, optimization, network science and applies these tools to cyber physical systems, power systems, transportation systems, robotics and beyond, with provable performance and resilience guarantee. For more details, please see the [research](research) page. 
 
-My CV can be found [here](https://drive.google.com/file/d/1-6z3Fj8LDB3LU7hiwQoOiCEigy5d7g0Z/view?usp=sharing) (updated in Feb 2023).
+My CV can be found [here](https://drive.google.com/file/d/1M3vk4epE2VabphwW6PL0HAR_4n4-J3eG/view?usp=sharing) (updated in Dec 2023).
 
-**I am expected to recurit 1-2 students in the Fall 2023 admision cycle. If you are interested in working with me, feel free to reach out!**
+**I am recruiting postdocs through the [CBI fellowship](https://carnegiebosch.cmu.edu/fellowships/index.html). If you are interested, feel free to reach out!**
 
-### Updates 
-- December 2022: Our paper ``Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning'' ([link](https://arxiv.org/abs/2211.17116)) has been accepted to SIGMETRICS 2023!
-- November 2022: Our paper ``Near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))'' has been accepted to SIAM Journal on Control and Optimization. 
-- October 2022: two new members joined my group. Welcome, Alex and Ziyi!  
-- September 2022: two new papers accepted to NeurIPS 2022
-  - On the sample complexity of stabilizing LTI systems on a single trajectory ([link](https://arxiv.org/abs/2202.07187))
-  - Bounded-regret MPC via perturbation analysis: prediction error, constraints, and nonlinearity ([link](https://arxiv.org/abs/2210.12312))
-- May 2022: one new paper in ICML 2022: Decentralized Online Convex Optimization in Networked Systems ([link](https://arxiv.org/abs/2207.05950))
-- October 2021: Our paper on scalable multi-agent RL for networked systems ([link](https://arxiv.org/abs/1912.02906)) has been accepted to *Operations Research*!
-- September 2021: I am starting at CMU as an assistant professor! 
+### Recent updates 
+- I received NSF CAREER Award (2023)!
+- Recent paper highlights:
+  - We applied the Scalable Reinforcement Learning framework (which we proposed a few years ago in this [paper](https://arxiv.org/abs/1912.02906)) to a microgrid inverter control problem and showed superior scalability of the proposed framework! See preprint [here](https://arxiv.org/pdf/2312.04371.pdf). 
+  - We proposed a distributed networked MPC framework with provable dynamic regret guarantee for networked control problems! See preprint [here](https://arxiv.org/pdf/2310.06194.pdf).
+  - We proposed an ISS-Lyapunov based neural certificate framework to stabilize networked dynamical systems! Accepted to L4DC 2023 as oral presentation. See paper [here](https://proceedings.mlr.press/v211/zhang23a.html).
+- Three new members joined my group (Fall 2023). Welcome, Zeji, Chaoyi, and Muhammed!
+- We received CMU CyLab seed funding (Spring 2023)! 
+
+
+Past updates (2022 and older)
+- Our paper ``Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning’’ ([link](https://arxiv.org/abs/2211.17116)) has been accepted to SIGMETRICS 2023!
+- Our paper ``Near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))’’ has been accepted to SIAM Journal on Control and Optimization. 
+- Two new members joined my group (Fall 2022). Welcome, Alex and Ziyi!
+- Two new papers accepted to NeurIPS 2022: On the sample complexity of stabilizing LTI systems on a single trajectory ([link](https://arxiv.org/abs/2202.07187)), Bounded-regret MPC via perturbation analysis: prediction error, constraints, and nonlinearity ([link](https://arxiv.org/abs/2210.12312))
+- One new paper in ICML 2022: Decentralized Online Convex Optimization in Networked Systems ([link](https://proceedings.mlr.press/v162/lin22c/lin22c.pdf))
+- We received a new research grant from NSF EPCN (Spring 2022)!
+- We received a new research award from C3 AI Institute (Spring 2022)!
+- Our paper on scalable multi-agent RL for networked systems ([link](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2226)) has been accepted to Operations Research!
+- I am starting at CMU as an assistant professor (Fall 2021)!

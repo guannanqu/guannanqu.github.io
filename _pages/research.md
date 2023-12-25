@@ -13,10 +13,11 @@ Some of research projects are listed below.
 Machine learning has been applied to control systems to learn to control an unknown system with provable performance guarantee (e.g. regret, competitive ratio). However, in addition to performance, an equally important property of control systems is *stability*, without which there is no performance to even talk about. In this project, we investigate the ``learn to stabilize'' problem for an unknown system, and study fundamental questions like sample complexity. 
 
 - Yang Hu, Adam Wierman, Guannan Qu, On the Sample complexity of stabilizing LTI systems on a Singlle Trajectory, NeurIPS 2022 ([link](https://arxiv.org/abs/2202.07187))
+- Songyuan Zhang, Yumeng Xiu, Guannan Qu, Chuchu Fan, [Compositional Neural Certificates for Networked Dynamical Systems](https://proceedings.mlr.press/v211/zhang23a.html), 5th Learning for Dynamics and Control Conference, 2023 (oral presentation).
 
 **Learning and Control for Networked Systems**
 
-Reinforcement Learning (RL) has achieved many sucess in single-agent systems, but its application to large scale networked systems face a major obstacle: scalability. Put more concretely, the scalibity issue lies in that the state or action space of such networked systems can be exponentially large in the number of nodes. In this project, we investigate how we can use the network structure to make RL scalable for networked systems. 
+Reinforcement Learning (RL) has achieved many sucess in single-agent systems, but its application to large scale networked systems face a major obstacle: scalability. Put more concretely, the scalibity issue lies in that the state or action space of such networked systems can be exponentially large in the number of nodes; further, each agent only has local observation of the state of the network. In this project, we investigate how we can use the network structure to make RL scalable for networked systems. 
 
 - Guannan Qu, Adam Wierman, Na Li, Scalable Reinforcement Learning for Multi-Agent Networked Systems, Operations Research 2021 ([link](https://arxiv.org/abs/1912.02906))
 - Guannan Qu, Yiheng Lin, Adam Wierman, Na Li, Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward, NeurIPS 2020 ([link](https://proceedings.neurips.cc//paper/2020/file/168efc366c449fab9c2843e9b54e2a18-Paper.pdf))
@@ -25,11 +26,14 @@ Reinforcement Learning (RL) has achieved many sucess in single-agent systems, bu
 
 As an application, we have also applied RL to power systems. 
 
+- Scalable RL for microgrid inverter control ([link](https://arxiv.org/pdf/2312.04371.pdf)), where we demonstrated the superior scalability of the proposed scalable RL framework. 
 - Review paper on RL for power systems ([link](https://arxiv.org/abs/2102.01168))
 - Stable RL for voltage control ([link](https://arxiv.org/abs/2109.14854))
 
 Even without learning, the control of a networked systems is already a challenging problem. To that end, I have developed fundamental theories regarding how to design distributed algorithms for control and optimization of networked systems using only local information and local communication. 
 
+- Eric Xu, Guannan Qu, [Stability and Regret bounds on Distributed Truncated Predictive Control for Networked Dynamical Systems](https://arxiv.org/pdf/2310.06194.pdf), arXiv preprint arXiv:2310.06194. 
+- Eric Xu and Guannan Qu, Natural Policy Gradient Preserves Spatial Decay Properties for Control of Networked Dynamical Systems, IEEE Conference on Decision and Control, 2023.
 - Sungho Shin, Yiheng Lin, Guannan Qu, Adam Wierman, Mihai Anitescu, [Near-Optimal Distributed Linear-Quadratic Regulator for Networked Systems](https://arxiv.org/pdf/2204.05551.pdf), accepted to SIAM Journal on Control and Optimization. 
 - Yiheng Lin, Judy Gan, Guannan Qu, Yash Kanoria, Adam Wierman, [Decentralized Online Convex Optimization in Networked Systems](https://proceedings.mlr.press/v162/lin22c/lin22c.pdf), ICML 2022.
 - Guannan Qu and Na Li, [Accelerated Distributed Nesterov Gradient Descent](https://arxiv.org/abs/1705.07176), *IEEE Transactions on Automatic Control*, vol. 65, no. 6, pp. 2566 - 2581, June 2020.
@@ -55,11 +59,15 @@ Traditional controller synthesis typicalls starts with a first-princeples model 
 
 - Tongxin Li, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, Steven Low, Robustness and Consistency in Linear Quadratic Control with Predictions , ACM SIGMETRICS 2022 ([link](https://arxiv.org/pdf/2106.09659.pdf)).
 
+- Tongxin Li, Ruixiao Yang, Guannan Qu, Yiheng Lin, Adam Wierman, Steven H Low, [Certifying Black-Box Policies With Stability for Nonlinear Control](https://ieeexplore.ieee.org/abstract/document/10034859/), *IEEE Open Journal of Control Systems*, vol. 2, 2023. 
+
 
 
 **Application: power systems**
 
 Many of our research is inspired by applications in power systems, particularly distributed control and coordination of distributed energy resources. Here is a list of relevant power system publications. 
+
+- Han Xu, Jialin Zheng, Guannan Qu, [A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control](https://arxiv.org/pdf/2312.04371.pdf), arXiv preprint arXiv:2312.04371 (2023).
 
 - Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision, accepted to IEEE Transactions on Smart Grid. ([link](https://arxiv.org/abs/2102.01168))
 
