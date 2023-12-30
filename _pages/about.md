@@ -24,6 +24,8 @@ My CV can be found [here](https://drive.google.com/file/d/1M3vk4epE2VabphwW6PL0H
 **I am recruiting postdocs through the [CBI fellowship](https://carnegiebosch.cmu.edu/fellowships/index.html). If you are interested, feel free to reach out!**
 
 ### Recent updates 
+- Our [paper](https://ieeexplore.ieee.org/document/9721402) has been selected as the 3rd paper out of the top 5 papers
+chosen among over a thousand articles published in the IEEE Transactions on Smart Grid (TSG) in the past 3 years.
 - I received NSF CAREER Award (2023)!
 - Recent paper highlights:
   - We applied the Scalable Reinforcement Learning framework (which we proposed a few years ago in this [paper](https://arxiv.org/abs/1912.02906)) to a microgrid inverter control problem and showed superior scalability of the proposed framework! See preprint [here](https://arxiv.org/pdf/2312.04371.pdf). 

@@ -69,7 +69,8 @@ Many of our research is inspired by applications in power systems, particularly 
 
 - Han Xu, Jialin Zheng, Guannan Qu, [A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control](https://arxiv.org/pdf/2312.04371.pdf), arXiv preprint arXiv:2312.04371 (2023).
 
-- Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision, accepted to IEEE Transactions on Smart Grid. ([link](https://arxiv.org/abs/2102.01168))
+- Xin Chen, Guannan Qu, Yujie Tang, Steven Low, Na Li, Reinforcement Learning for Selective Key Applications in Power Systems: Recent Advances and Future Challenges
+, accepted to IEEE Transactions on Smart Grid. ([link](https://arxiv.org/abs/2102.01168))
 
 - Yuanyuan Shi*, Guannan Qu*, Steven Low, Anima Anandkumar, Adam Wierman, Stability Constrained Reinforcement Learning for Real-Time Voltage Control , American Control Conference 2022. (* denotes equal contribution)
  ([link](https://arxiv.org/abs/2109.14854))
