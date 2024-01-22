@@ -8,6 +8,7 @@ author_profile: true
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ### Preprints
+- Zeji Yi, Chaoyi Pan, Guanqi He, Guannan Qu, Guanya Shi, [CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design](https://arxiv.org/abs/2401.07369), arXiv preprint arXiv:2401.07369 (2024). 
 - Han Xu, Jialin Zheng, Guannan Qu, [A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control](https://arxiv.org/pdf/2312.04371.pdf), arXiv preprint arXiv:2312.04371 (2023).
 - Eric Xu, Guannan Qu, [Stability and Regret bounds on Distributed Truncated Predictive Control for Networked Dynamical Systems](https://arxiv.org/pdf/2310.06194.pdf), arXiv preprint arXiv:2310.06194. 
 

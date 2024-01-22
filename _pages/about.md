@@ -28,6 +28,7 @@ My CV can be found [here](https://drive.google.com/file/d/1M3vk4epE2VabphwW6PL0H
 chosen among over a thousand articles published in the IEEE Transactions on Smart Grid (TSG) in the past 3 years.
 - I received NSF CAREER Award (2023)!
 - Recent paper highlights:
+  - We proposed [CoVariance Optimal MPC (CoVO-MPC)](https://arxiv.org/abs/2401.07369v1), which exploits the dynamics structure to improve the efficiency of sampling based MPC. We showed significant improvements both in theory and in simulations/real-world experiments! 
   - We applied the Scalable Reinforcement Learning framework (which we proposed a few years ago in this [paper](https://arxiv.org/abs/1912.02906)) to a microgrid inverter control problem and showed superior scalability of the proposed framework! See preprint [here](https://arxiv.org/pdf/2312.04371.pdf). 
   - We proposed a distributed networked MPC framework with provable dynamic regret guarantee for networked control problems! See preprint [here](https://arxiv.org/pdf/2310.06194.pdf).
   - We proposed an ISS-Lyapunov based neural certificate framework to stabilize networked dynamical systems! Accepted to L4DC 2023 as oral presentation. See paper [here](https://proceedings.mlr.press/v211/zhang23a.html).
