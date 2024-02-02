@@ -21,7 +21,7 @@ I am broadly interested in control, optimization, and machine learning. Particul
 
 My CV can be found [here](https://drive.google.com/file/d/1M3vk4epE2VabphwW6PL0HAR_4n4-J3eG/view?usp=sharing) (updated in Dec 2023).
 
-**I am recruiting postdocs through the [CBI fellowship](https://carnegiebosch.cmu.edu/fellowships/index.html). If you are interested, feel free to reach out!**
+
 
 ### Recent updates 
 - Our [paper](https://ieeexplore.ieee.org/document/9721402) has been selected as the 3rd paper out of the top 5 papers
