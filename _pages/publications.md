@@ -10,11 +10,11 @@ author_profile: true
 ### Preprints
 - Alex Deweese, Guannan Qu, “Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Local Dependencies”, under review. 
 - Ziyi Zhang, Yorie Nakahira, Guannan Qu, "Learning to Stabilize LTI Systems on a Single Trajectory under Stochastic Noise", under review. 
-- Emile Anand, Guannan Qu, “Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale”,  under review. (available as \emph{arXiv preprint arXiv:2403.00222}, 2024). 
+- Emile Anand, Guannan Qu, “Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale”,  under review. (available as *arXiv preprint arXiv:2403.00222*, 2024). 
 - Zeji Yi, Chaoyi Pan, Guanqi He, Guannan Qu, Guanya Shi, [CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design](https://arxiv.org/abs/2401.07369), arXiv preprint arXiv:2401.07369 (2024). 
 - Han Xu, Jialin Zheng, Guannan Qu, [A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control](https://arxiv.org/pdf/2312.04371.pdf), arXiv preprint arXiv:2312.04371 (2023).
 - Junxuan Shen, Adam Wierman, Guannan Qu, “Combining Model-based Controller and ML Advice via Convex Reparameterization”, under review. 
-- Ziyi Zhang, Guannan Qu, Yorie Nakahira, “Fast Bandit-based Policy Adaptation in Diverse Environments”, under review. 
+- Ziyi Zhang, Guannan Qu, Yorie Nakahira, “Fast Bandit-based Policy Adaptation in Diverse Environments”, under review. Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4773505) 
 
 ### Machine Learning Conference Publications 
 - Neharika Jali, Guannan Qu, Weina Wang, Gauri Joshi, [Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems](https://arxiv.org/abs/2402.01147), AISTATS 2024. 
