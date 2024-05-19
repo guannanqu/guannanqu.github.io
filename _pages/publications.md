@@ -8,16 +8,18 @@ author_profile: true
   You can also find my publications on <u><a href="https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 ### Preprints
-- Alex Deweese, Guannan Qu, “Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Local Dependencies”, under review. 
 - Ziyi Zhang, Yorie Nakahira, Guannan Qu, "Learning to Stabilize LTI Systems on a Single Trajectory under Stochastic Noise", under review. 
 - Emile Anand, Guannan Qu, “Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale”,  under review. (available as *arXiv preprint arXiv:2403.00222*, 2024). 
-- Zeji Yi, Chaoyi Pan, Guanqi He, Guannan Qu, Guanya Shi, [CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design](https://arxiv.org/abs/2401.07369), arXiv preprint arXiv:2401.07369 (2024). 
 - Han Xu, Jialin Zheng, Guannan Qu, [A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control](https://arxiv.org/pdf/2312.04371.pdf), arXiv preprint arXiv:2312.04371 (2023).
-- Junxuan Shen, Adam Wierman, Guannan Qu, “Combining Model-based Controller and ML Advice via Convex Reparameterization”, under review. 
 - Ziyi Zhang, Guannan Qu, Yorie Nakahira, “Fast Bandit-based Policy Adaptation in Diverse Environments”, under review. Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4773505) 
 
-### Machine Learning Conference Publications 
+### Selected Conference Publications 
+- Alex Deweese, Guannan Qu, “Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Local Dependencies”, ICML 2024 
+- Junxuan Shen, Adam Wierman, Guannan Qu, “Combining Model-based Controller and ML Advice via Convex Reparameterization”, 6th Learning for Dynamics and Control 2024. 
+- Zeji Yi, Chaoyi Pan, Guanqi He, Guannan Qu, Guanya Shi, [CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design](https://arxiv.org/abs/2401.07369), 6th Learning for Dynamics and Control 2024. 
+- Eric Xu, Guannan Qu, [Stability and Regret bounds on Distributed Truncated Predictive Control for Networked Dynamical Systems](https://arxiv.org/pdf/2310.06194.pdf), American Control Conference 2024. 
 - Neharika Jali, Guannan Qu, Weina Wang, Gauri Joshi, [Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems](https://arxiv.org/abs/2402.01147), AISTATS 2024. 
+- Eric Xu and Guannan Qu, Natural Policy Gradient Preserves Spatial Decay Properties for Control of Networked Dynamical Systems, in IEEE Conference on Decision and Control, 2023.
 - Songyuan Zhang, Yumeng Xiu, Guannan Qu, Chuchu Fan, [Compositional Neural Certificates for Networked Dynamical Systems](https://proceedings.mlr.press/v211/zhang23a.html), 5th Learning for Dynamics and Control Conference, 2023 (oral presentation).
 - Yizhou Zhang\*, Guannan Qu\*, Pan Xu\*, Yiheng Lin, Zaiwei Chen, Adam Wierman, [Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2211.17116), ACM SIGMETRICS 2023. (\* equal contribution)
 - Yang Hu, Adam Wierman, Guannan Qu, [On the Sample Complexity of Stabilizing LTI Systems on a Single Trajectory](https://arxiv.org/abs/2202.07187), NeurIPS 2022. 
@@ -54,8 +56,6 @@ author_profile: true
 - Guannan Qu and Na Li, [Harnessing Smoothness to Accelerate Distributed Optimization](https://arxiv.org/abs/1605.07112), *IEEE Transactions on Control of Network Systems*, vol. 5, no. 3, pp. 1245-1260, Sept. 2018.
 
 ### Other Conference Publications
-- Eric Xu, Guannan Qu, [Stability and Regret bounds on Distributed Truncated Predictive Control for Networked Dynamical Systems](https://arxiv.org/pdf/2310.06194.pdf), accepted to American Control Conference 2024. 
-- Eric Xu and Guannan Qu, Natural Policy Gradient Preserves Spatial Decay Properties for Control of Networked Dynamical Systems, in IEEE Conference on Decision and Control, 2023.
 - Sahin Lale, Yuanyuan Shi, Guannan Qu, Kamyar Azizzadenesheli, Adam Wierman, Anima Anandkumar, KCRL: Krasovskii-Constrained Reinforcement Learning with Guaranteed Stability in Nonlinear Discrete-Time Systems, 62nd IEEE Conference on Decision and Control (CDC), 2023. 
 - Yuanyuan Shi\*, Guannan Qu\*, Steven Low, Anima Anandkumar, Adam Wierman, [Stability Constrained Reinforcement Learning for Real-Time Voltage Control
 ](https://arxiv.org/abs/2109.14854), American Control Conference 2022. (\* denotes equal contribution)

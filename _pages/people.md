@@ -13,20 +13,21 @@ author_profile: true
 - Zeji Yi (co-advised with Guanya Shi)
 - Muhammed Ustaömeroğlu
 
-**Master Students**
-- Eric Xu
+<!-- **Master Students** -->
 
-**Visitors**
-- Emile Anand (Undergrad visiting student, Caltech)
+
+<!-- **Visitors** -->
 
 ## Past members
 
 **Master Students**
-- Yumeng Xiu (currently CMU PhD)
+- Yumeng Xiu (next position: CMU PhD)
+- Eric Xu (next position: UC Berkeley EECS PhD)
 
 **Selected Visitors**
-- Han Xu (Master visiting student from Tsinghua)
-- Junxuan Shen (Undergrad visiting student from Caltech)
-- Yang Hu (Undergrad virtual visitor, currently Harvard PhD)
-- Ruixiao Yang (Undergrad virtual visitor, currently MIT PhD)
-- Yizhou Zhang (Undergrad virtual visitor, currently Caltech PhD)
+- Han Xu (Master visiting student, next position: Caltech PhD)
+- Junxuan Shen (Undergrad visiting student from Caltech, next position: MIT EECS PhD)
+- Yang Hu (Undergrad virtual visitor, next position: Harvard PhD)
+- Ruixiao Yang (Undergrad virtual visitor, next position: MIT PhD)
+- Yizhou Zhang (Undergrad virtual visitor, next position Caltech PhD)
+- Emile Anand (Undergrad visiting student, next position: Georgia Tech PhD)
