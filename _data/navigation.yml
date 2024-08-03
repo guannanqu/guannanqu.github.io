@@ -9,6 +9,9 @@ main:
   - title: "Research"
     url: /research/    
 
+  - title: "Structure-Exploiting ML"
+    url: /structure_exploiting_rl/    
+  
   - title: "Teaching"
     url: /teaching/    
     
