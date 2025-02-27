@@ -24,19 +24,25 @@ My CV can be found [here](https://drive.google.com/file/d/1M3vk4epE2VabphwW6PL0H
 
 
 ### Recent updates 
+- Our work received the best paper award from [AAAI 2025 Workshop on Multi-Agent AI in the Real World](https://sites.google.com/view/marw-ai-agents)!  
+- Students from my group received multiple fellowships in 2025. Congratulations to all!
+  - Zeji Yi received CMU Wei Shen and Xuehong Zhang Presidential Fellowship.
+  - Alex DeWeese received David H. Barakat and LaVerne Owen-Barakat College of Engineering Dean's Fellowship.
+  - Chaoyi Pan received Hsu Chang Memorial Fellowship in Electrical & Computer Engineering.
+- I co-organized [NSF workshop on Reinforcement Learning](https://sites.harvard.edu/nsf-rl-workshop/schedule/)!  
+- Student Alex DeWeese received Leo Finzi Memorial Fellowship in Electrical & Computer Engineering (2024)! Congrats!
+
+Past updates (2023 and older)
 - Our [paper](https://ieeexplore.ieee.org/document/9721402) has been selected as the 3rd paper out of the top 5 papers
 chosen among over a thousand articles published in the IEEE Transactions on Smart Grid (TSG) in the past 3 years.
 - I received NSF CAREER Award (2023)!
-- Recent paper highlights:
+- Paper highlights (2023):
   - We proposed [CoVariance Optimal MPC (CoVO-MPC)](https://arxiv.org/abs/2401.07369v1), which exploits the dynamics structure to improve the efficiency of sampling based MPC. We showed significant improvements both in theory and in simulations/real-world experiments! 
   - We applied the Scalable Reinforcement Learning framework (which we proposed a few years ago in this [paper](https://arxiv.org/abs/1912.02906)) to a microgrid inverter control problem and showed superior scalability of the proposed framework! See preprint [here](https://arxiv.org/pdf/2312.04371.pdf). 
   - We proposed a distributed networked MPC framework with provable dynamic regret guarantee for networked control problems! See preprint [here](https://arxiv.org/pdf/2310.06194.pdf).
   - We proposed an ISS-Lyapunov based neural certificate framework to stabilize networked dynamical systems! Accepted to L4DC 2023 as oral presentation. See paper [here](https://proceedings.mlr.press/v211/zhang23a.html).
 - Three new members joined my group (Fall 2023). Welcome, Zeji, Chaoyi, and Muhammed!
 - We received CMU CyLab seed funding (Spring 2023)! 
-
-
-Past updates (2022 and older)
 - Our paper ``Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning’’ ([link](https://arxiv.org/abs/2211.17116)) has been accepted to SIGMETRICS 2023!
 - Our paper ``Near-optimal distributed linear-quadratic regulator for networked systems ([link](https://arxiv.org/pdf/2204.05551.pdf))’’ has been accepted to SIAM Journal on Control and Optimization. 
 - Two new members joined my group (Fall 2022). Welcome, Alex and Ziyi!
