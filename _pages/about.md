@@ -34,6 +34,7 @@ My CV can be found [here](https://drive.google.com/file/d/1BXXjsoB8kdrtckRBh8Xh7
 - New papers accepted to NeurIPS 2025:
   - [*Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning*](https://openreview.net/forum?id=CTsdZ3j6dR) **Spotlight**
   - [*Stabilizing Linear Systems under Partial Observability: Sample Complexity and Fundamental Limits*](https://arxiv.org/pdf/2503.16756)
+- New preprint [*Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions*](https://arxiv.org/abs/2511.13103)
 - New paper accepted to ICML 2025: [*A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization*](https://arxiv.org/pdf/2506.06179?)
 - Our work [Dial-MPC](https://arxiv.org/abs/2409.15610) has been selected as the **Best Paper Finalist** at ICRA 2025. 
 - Our work received the best paper award from [AAAI 2025 Workshop on Multi-Agent AI in the Real World](https://sites.google.com/view/marw-ai-agents)!  
