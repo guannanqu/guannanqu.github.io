@@ -56,6 +56,8 @@ Another typical structure is \emph{time-varying network}, motivated by networked
 
 - Alex Deweese, Guannan Qu, [Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Local Dependencies](https://arxiv.org/pdf/2406.06823), ICML 2024 
 
+- Alex DeWeese, Guannan Qu. *Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs*. arXiv:2506.04215, 2025.
+
 
 ## Symmetry 
 <div style="text-align: center;">
@@ -74,5 +76,5 @@ Many engineering systems like power systems and robotics come with a physics-bas
 
 - Guannan Qu, Chenkai Yu, Steven Low, Adam Wierman, Exploiting Linear Models for Model-Free Nonlinear Control: A Provably Convergent Policy Gradient Approach ([link](https://arxiv.org/pdf/2006.07476)), IEEE CDC 2021. 
 
-- Chaoyi Pan*, Zeji Yi*, Guanya Shi+, Guannan Qu+, [Model-Based Diffusion for Trajectory Optimization](https://arxiv.org/pdf/2407.01573), preprint 2024. (* denotes equal contribution, + denotes equal advising)
+- Chaoyi Pan*, Zeji Yi*, Guanya Shi+, Guannan Qu+, [Model-Based Diffusion for Trajectory Optimization](https://arxiv.org/pdf/2407.01573), NeurIPS 2024. (* denotes equal contribution, + denotes equal advising)
 

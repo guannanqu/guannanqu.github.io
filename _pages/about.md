@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size:1.2em;">**Guannan Qu**</span>  
-Assistant Professor  
+Assistant Professor -> Associate Professor (starting from July 1, 2026)
+
 Department of Electrical and Computer Engineering  
 Carnegie Mellon University  
 Contact: gqu [at] andrew.cmu.edu  
@@ -17,22 +18,33 @@ Office: Porter B22
 
 I am an assistant professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
 
-I am broadly interested in control, optimization, and machine learning. Particularly, I strive to develop theories that make machine learning applicable in real-world large scale engineering systems. My research is interdisciplinary in nature that develops new mathematical tools in machine/reinforcement learning, control theory, optimization, network science and applies these tools to cyber physical systems, power systems, transportation systems, robotics and beyond, with provable performance and resilience guarantee. For more details, please see the [research](research) page. 
+I am broadly interested in machine learning and decision making/control. My recent interest focuses on developing fundamental principles of machine learning and GenAI to make them interpretable, safe, and scalable. Coming from a traditional control background, I have also been interested in developing theories that make machine learning applicable in control of real-world large scale engineering systems. My research is interdisciplinary in nature that develops new mathematical tools in machine/reinforcement learning, control theory, optimization, network science.
 
-My CV can be found [here](https://drive.google.com/file/d/1M3vk4epE2VabphwW6PL0HAR_4n4-J3eG/view?usp=sharing) (updated in Dec 2023).
+My CV can be found [here](https://drive.google.com/file/d/1BXXjsoB8kdrtckRBh8Xh7bh8a9RZTzzU/view?usp=sharing) (updated in Feb 2026).
 
 
 
 ### Recent updates 
+- I have been promoted to Associate Professor of ECE, effective on July 1, 2026!
+- New preprint [*BLOCK-EM: Preventing Emergent Misalignment by Blocking Causal Features*](https://arxiv.org/pdf/2602.00767)
+- New papers accepted to ICLR 2026:
+  - [*Internal Planning in Language Models: Characterizing Horizon and Branch Awareness*](https://arxiv.org/abs/2509.25260)
+  - [*Much Ado About Noising: Dispelling the Myths of Generative Robotic Control*](https://arxiv.org/pdf/2512.01809)
+  - [*Polynomial Convergence of Riemannian Diffusion Models*](https://arxiv.org/abs/2601.02499)
+- New papers accepted to NeurIPS 2025:
+  - [*Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning*](https://openreview.net/forum?id=CTsdZ3j6dR) **Spotlight**
+  - [*Stabilizing Linear Systems under Partial Observability: Sample Complexity and Fundamental Limits*](https://arxiv.org/pdf/2503.16756)
+- New paper accepted to ICML 2025: [*A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization*](https://arxiv.org/pdf/2506.06179?)
+- Our work [Dial-MPC](https://arxiv.org/abs/2409.15610) has been selected as the **Best Paper Finalist** at ICRA 2025. 
 - Our work received the best paper award from [AAAI 2025 Workshop on Multi-Agent AI in the Real World](https://sites.google.com/view/marw-ai-agents)!  
 - Students from my group received multiple fellowships in 2025. Congratulations to all!
   - Zeji Yi received CMU Wei Shen and Xuehong Zhang Presidential Fellowship.
   - Alex DeWeese received David H. Barakat and LaVerne Owen-Barakat College of Engineering Dean's Fellowship.
   - Chaoyi Pan received Hsu Chang Memorial Fellowship in Electrical & Computer Engineering.
 - I co-organized [NSF workshop on Reinforcement Learning](https://sites.harvard.edu/nsf-rl-workshop/schedule/)!  
-- Student Alex DeWeese received Leo Finzi Memorial Fellowship in Electrical & Computer Engineering (2024)! Congrats!
 
-Past updates (2023 and older)
+Past updates (2024 and older)
+- Student Alex DeWeese received Leo Finzi Memorial Fellowship in Electrical & Computer Engineering (2024)! Congrats!
 - Our [paper](https://ieeexplore.ieee.org/document/9721402) has been selected as the 3rd paper out of the top 5 papers
 chosen among over a thousand articles published in the IEEE Transactions on Smart Grid (TSG) in the past 3 years.
 - I received NSF CAREER Award (2023)!

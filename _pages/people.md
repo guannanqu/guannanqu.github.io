@@ -13,7 +13,8 @@ author_profile: true
 - Zeji Yi (co-advised with Guanya Shi)
 - Muhammed Ustaömeroğlu
 
-<!-- **Master Students** -->
+**Master Students**
+- Vidur Sinha
 
 
 <!-- **Visitors** -->
