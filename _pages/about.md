@@ -25,24 +25,22 @@ My CV can be found [here](https://drive.google.com/file/d/1BXXjsoB8kdrtckRBh8Xh7
 
 
 ### Recent updates 
-- I have been promoted to Associate Professor of ECE, effective on July 1, 2026!
-- New preprint [*BLOCK-EM: Preventing Emergent Misalignment by Blocking Causal Features*](https://arxiv.org/pdf/2602.00767)
-- New papers accepted to ICLR 2026:
-  - [*Internal Planning in Language Models: Characterizing Horizon and Branch Awareness*](https://arxiv.org/abs/2509.25260)
-  - [*Much Ado About Noising: Dispelling the Myths of Generative Robotic Control*](https://arxiv.org/pdf/2512.01809)
-  - [*Polynomial Convergence of Riemannian Diffusion Models*](https://arxiv.org/abs/2601.02499)
-- New papers accepted to NeurIPS 2025:
-  - [*Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning*](https://openreview.net/forum?id=CTsdZ3j6dR) **Spotlight**
-  - [*Stabilizing Linear Systems under Partial Observability: Sample Complexity and Fundamental Limits*](https://arxiv.org/pdf/2503.16756)
-- New preprint [*Transformer-Based Scalable Multi-Agent Reinforcement Learning for Networked Systems with Long-Range Interactions*](https://arxiv.org/abs/2511.13103)
-- New paper accepted to ICML 2025: [*A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization*](https://arxiv.org/pdf/2506.06179?)
-- Our work [Dial-MPC](https://arxiv.org/abs/2409.15610) has been selected as the **Best Paper Finalist** at ICRA 2025. 
-- Our work received the best paper award from [AAAI 2025 Workshop on Multi-Agent AI in the Real World](https://sites.google.com/view/marw-ai-agents)!  
-- Students from my group received multiple fellowships in 2025. Congratulations to all!
+- Feb 2026: I have been promoted to Associate Professor of ECE, effective on July 1, 2026!
+- Feb 2026: New preprint on [emergent misalignment](https://arxiv.org/pdf/2602.00767)
+- Jan 2026 New papers accepted to ICLR 2026 on [internal planning in LLMs](https://arxiv.org/abs/2509.25260), [generative control](https://arxiv.org/pdf/2512.01809), [riemannian diffusion](https://arxiv.org/abs/2601.02499)
+- Dec 2025: I gave a tutorial in DCD on Sampling-based Control. 
+- Dec 2025: New papers accepted to NeurIPS 2025 on [mean-field MARL](https://openreview.net/forum?id=CTsdZ3j6dR) (**Spotlight**)  and [stabilizing linear systems](https://arxiv.org/pdf/2503.16756)
+- Nov 2025: New preprint on [transformer for networked control with long-range interactions](https://arxiv.org/abs/2511.13103)
+- Aug 2025: Received new NSF grant on sampling-based control. 
+- Aug 2025: Received new PITA grant. 
+- July 2025: New paper accepted to ICML 2025 on [theoretical study of (hyper) self-attention](https://arxiv.org/pdf/2506.06179?)
+- May 2025: Our work [Dial-MPC](https://arxiv.org/abs/2409.15610) has been selected as the **Best Paper Finalist** at ICRA 2025. 
+- Feb 2025: Our work received the best paper award from [AAAI 2025 Workshop on Multi-Agent AI in the Real World](https://sites.google.com/view/marw-ai-agents)!  
+- Feb 2025: Students from my group received multiple fellowships in 2025. Congratulations to all!
   - Zeji Yi received CMU Wei Shen and Xuehong Zhang Presidential Fellowship.
   - Alex DeWeese received David H. Barakat and LaVerne Owen-Barakat College of Engineering Dean's Fellowship.
   - Chaoyi Pan received Hsu Chang Memorial Fellowship in Electrical & Computer Engineering.
-- I co-organized [NSF workshop on Reinforcement Learning](https://sites.harvard.edu/nsf-rl-workshop/schedule/)!  
+- Jan 2025:I co-organized [NSF workshop on Reinforcement Learning](https://sites.harvard.edu/nsf-rl-workshop/schedule/)!  
 
 Past updates (2024 and older)
 - Student Alex DeWeese received Leo Finzi Memorial Fellowship in Electrical & Computer Engineering (2024)! Congrats!
