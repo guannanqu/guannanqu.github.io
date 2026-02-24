@@ -39,3 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.page__content,
+.archive {
+  font-size: 0.9em;
+}
+
+.page__content ul,
+.page__content ol,
+.archive ul,
+.archive ol {
+  padding-inline-start: 0.3em;
+  padding-left: 0.3em;
+}
