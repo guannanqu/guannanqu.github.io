@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size:1.2em;">**Guannan Qu**</span>  
-Assistant Professor -> Associate Professor (starting from July 1, 2026)
+Associate Professor
 
 Department of Electrical and Computer Engineering  
 Carnegie Mellon University  
@@ -16,7 +16,7 @@ Contact: gqu [at] andrew.cmu.edu
 Office: Porter B22
 
 
-I am an assistant professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
+I am an associate professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
 
 I am broadly interested in machine learning and decision making/control. My recent interest focuses on developing fundamental principles of machine learning and GenAI to make them interpretable, safe, and scalable. Coming from a traditional control background, I have also been interested in developing theories that make machine learning applicable in control of real-world large scale engineering systems. My research is interdisciplinary in nature that develops new mathematical tools in machine/reinforcement learning, control theory, optimization, network science.
 
@@ -25,8 +25,9 @@ My CV can be found [here](https://drive.google.com/file/d/1BXXjsoB8kdrtckRBh8Xh7
 
 
 ### Recent updates 
+- April 2026: New ICML paper on [emergent misalignment](https://arxiv.org/pdf/2602.00767)
+- April 2026: Received new grant from [MFI](https://engineering.cmu.edu/mfi/index.html)!
 - Feb 2026: I have been promoted to Associate Professor of ECE, effective on July 1, 2026!
-- Feb 2026: New preprint on [emergent misalignment](https://arxiv.org/pdf/2602.00767)
 - Jan 2026 New papers accepted to ICLR 2026 on [internal planning in LLMs](https://arxiv.org/abs/2509.25260), [generative control](https://arxiv.org/pdf/2512.01809), [riemannian diffusion](https://arxiv.org/abs/2601.02499)
 - Dec 2025: I gave a tutorial in DCD on Sampling-based Control. 
 - Dec 2025: New papers accepted to NeurIPS 2025 on [mean-field MARL](https://openreview.net/forum?id=CTsdZ3j6dR) (**Spotlight**)  and [stabilizing linear systems](https://arxiv.org/pdf/2503.16756)
