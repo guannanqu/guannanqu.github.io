@@ -26,8 +26,8 @@ My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ4
 
 ### Recent updates 
 - June 2026: Invited tutorial and workshop talks at SIGMETRICS 2026. 
-- May 2026: Excited to release new preprint on [Effective Theory of LLMs](https://arxiv.org/abs/2605.09294), check out [\[project website\]](/ret/) for more details and demos!
--May 2026: New preprints on [Multi-Step Policy Gradient](https://arxiv.org/abs/2605.10909), [Emergent and Subliminal Misalignment](https://arxiv.org/abs/2605.12798)!
+- May 2026: Excited to release new preprint on [Effective Theory of LLMs](https://arxiv.org/abs/2605.09294), check out [project website](/ret/) for more details and demos!
+- May 2026: New preprints on [Multi-Step Policy Gradient](https://arxiv.org/abs/2605.10909), [Emergent and Subliminal Misalignment](https://arxiv.org/abs/2605.12798)!
 - April 2026: New ICML paper on [emergent misalignment](https://arxiv.org/pdf/2602.00767)
 - April 2026: Received new grant from [MFI](https://engineering.cmu.edu/mfi/index.html)!
 - March 2026: Paper on [transformer for networked control with long-range interactions](https://arxiv.org/abs/2511.13103) accepted to ECC 2026. See you in Iceland!
