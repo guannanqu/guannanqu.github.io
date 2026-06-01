@@ -4,18 +4,40 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-The research in my group strives to develop theories that make machine learning applicable in real-world large scale engineering systems. Our research is interdisciplinary in nature where we develop new mathematical tools in machine/reinforcement learning, control theory, optimization, network science and apply these tools to cyber physical systems, power systems, transportation systems, robotics and beyond, with provable performance and resilience guarantee. 
 
-Some of research projects are listed below. 
+**(NEW) Interpretability of LLMs**
 
-**Learn to Stabilize** 
 
-Machine learning has been applied to control systems to learn to control an unknown system with provable performance guarantee (e.g. regret, competitive ratio). However, in addition to performance, an equally important property of control systems is *stability*, without which there is no performance to even talk about. In this project, we investigate the ``learn to stabilize'' problem for an unknown system, and study fundamental questions like sample complexity. 
+While LLMs have show impressive capabilities, the internal mechanisms that give rise to such capabilities are still largely a mystery. Fascinated by such mystery, our group has been developing new interpretability tools and algorithms towards better scientific understandings of internal mechanisms of LLMs.
 
-- Yang Hu, Adam Wierman, Guannan Qu, On the Sample complexity of stabilizing LTI systems on a Singlle Trajectory, NeurIPS 2022 ([link](https://arxiv.org/abs/2202.07187))
-- Songyuan Zhang, Yumeng Xiu, Guannan Qu, Chuchu Fan, [Compositional Neural Certificates for Networked Dynamical Systems](https://proceedings.mlr.press/v211/zhang23a.html), 5th Learning for Dynamics and Control Conference, 2023 (oral presentation).
+- Muhammed Ustaomeroglu, Guannan Qu, [Towards Effective Theory of LLMs: A Representation Learning Approach](https://arxiv.org/abs/2605.09294), arXiv preprint arXiv:2605.09294, 2026. ([project website](/ret/))
+- Baris Askin, Muhammed Ustaomeroglu, Anupam Nayak, Gauri Joshi, Guannan Qu, Carlee Joe-Wong, [Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer](https://arxiv.org/abs/2605.12798), arXiv preprint arXiv:2605.12798, 2026.
+- Muhammed Ustaomeroglu, Guannan Qu, [BLOCK-EM: Preventing Emergent Misalignment by Blocking Causal Features](https://arxiv.org/abs/2602.00767), ICML 2026.
+- Muhammed Ustaomeroglu, Baris Askin, Gauri Joshi, Carlee Joe-Wong, Guannan Qu, [Internal Planning in Language Models: Characterizing Horizon and Branch Awareness](https://openreview.net/pdf?id=dqGWQdFdTC), ICLR 2026.
 
-**Learning and Control for Networked Systems**
+
+
+**(NEW) Sampling-based Control**
+
+
+Sampling-based control like MPPI has been widely used in robotics, especially in contact-rich non-smooth optimal control problems (e.g. locomotion for legged robots). However, from an optimization standpoint, why they can converge in highly **NON-CONVEX** problems and how to design the best sampling strategy are poorly understood. In this line of work, we develop fundamental theoretical understandings of sampling-based control algorithms, based on which we propose novel new design principles, unlocking new capabilities in robotics.
+
+The theory underpinning comes from this paper which reveals a coverage and optimality tradeoff in selecting the sampling variance, which explains the convergence property of sampling-based control:
+
+- Zeji Yi, Chaoyi Pan, Guanya Shi, Guannan Qu, Global Convergence of Sampling-Based Nonconvex Optimization through Diffusion-Style Smoothing, preprint 2026. [link](https://arxiv.org/abs/2605.16520)
+
+The tradeoff has practical implications: leveraging the tradeoff, we develop new sampling-based methods with improved convergence properties, and demonstrate their superior performance in real-world robotic control problems. This includes an **ICRA 2025 best paper finalist**. 
+
+
+- Haoru Xue, Chaoyi Pan, Zeji Yi, Guannan Qu, Guanya Shi, [Full-order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing](https://arxiv.org/abs/2409.15610), ICRA 2025 (Best Conference Paper Award Finalist).
+- Chaoyi Pan, Zeji Yi, Guanya Shi, Guannan Qu, [Model-based Diffusion for Trajectory Optimization](https://doi.org/10.52202/079017-1846), NeurIPS 2024.
+- Zeji Yi, Chaoyi Pan, Guanqi He, Guannan Qu, Guanya Shi, [CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design](https://arxiv.org/abs/2401.07369), L4DC 2024.
+
+
+
+
+
+**Reinforcement Learning for Networked Systems**
 
 Reinforcement Learning (RL) has achieved many sucess in single-agent systems, but its application to large scale networked systems face a major obstacle: scalability. Put more concretely, the scalibity issue lies in that the state or action space of such networked systems can be exponentially large in the number of nodes; further, each agent only has local observation of the state of the network. In this project, we investigate how we can use the network structure to make RL scalable for networked systems. 
 
@@ -49,11 +71,20 @@ Perturbation-based regret analysis of predictive control in linear time varying 
 
 - Yiheng Lin, Yang Hu, Guannan Qu, Tongxin Li, Adam Wierman, Bounded-regret MPC via perturbation analysis: prediction error, constraints, and nonlinearity, NeurIPS 2022. 
 
+**Learn to Stabilize** 
+
+Machine learning has been applied to control systems to learn to control an unknown system with provable performance guarantee (e.g. regret, competitive ratio). However, in addition to performance, an equally important property of control systems is *stability*, without which there is no performance to even talk about. In this project, we investigate the ``learn to stabilize'' problem for an unknown system, and study fundamental questions like sample complexity. 
+- Ziyi Zhang, Yorie Nakahira, Guannan Qu, Stabilizing Linear Systems under Partial Observability: Sample Complexity and Fundamental Limits, NeurIPS 2025 ([link](https://openreview.net/pdf?id=KwHsZJatB8))
+- Ziyi Zhang, Yorie Nakahira, Guannan Qu, Learning to stabilize unknown LTI systems on a single trajectory under stochastic noise, UAI 2025. 
+- Yang Hu, Adam Wierman, Guannan Qu, On the Sample complexity of stabilizing LTI systems on a Singlle Trajectory, NeurIPS 2022 ([link](https://arxiv.org/abs/2202.07187))
+- Songyuan Zhang, Yumeng Xiu, Guannan Qu, Chuchu Fan, [Compositional Neural Certificates for Networked Dynamical Systems](https://proceedings.mlr.press/v211/zhang23a.html), 5th Learning for Dynamics and Control Conference, 2023 (oral presentation).
 
 
 **Bridging Model-based and Model-Free Methods**
 
 Traditional controller synthesis typicalls starts with a first-princeples model and designs a controller with provable stability and robustness guarantee. In contrast, recent RL approaches do not assume a model and learns a controller (often times neural network based) in a data driven manner, which experimentally can perform well even for complex dynamical systems. However, the RL approach is often data and computation heavy, requires extensive tuning, and lacks provable guarantess. In this project, we seek to combine both approaches and achieve the best of both worlds. 
+
+- Junxuan Shen, Adam Wierman, Guannan Qu, Combining Model-based Controller and ML Advice via Convex Reparameterization, L4DC 2024 ([link](https://proceedings.mlr.press/v242/shen24a.html))
 
 - Guannan Qu, Chenkai Yu, Steven Low, Adam Wierman, Exploiting Linear Models for Model-Free Nonlinear Control: A Provably Convergent Policy Gradient Approach ([link](https://arxiv.org/pdf/2006.07476))
 
@@ -91,4 +122,3 @@ Many of our research is inspired by applications in power systems, particularly 
 
   - Distributed optimization, particularly the analysis of the gradient tracking idea ([link](https://arxiv.org/pdf/1605.07112.pdf)) and its accelerated version ([link](https://arxiv.org/pdf/1705.07176.pdf))
   - Exponential stability (aka linear convergence) of the primal-dual gradient algorithm ([paper1](https://arxiv.org/pdf/1803.01825.pdf), [paper 2](https://arxiv.org/pdf/1903.09580.pdf))
-

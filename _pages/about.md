@@ -16,22 +16,25 @@ Contact: gqu [at] andrew.cmu.edu
 Office: Porter B22
 
 
-I am an associate professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University. From 2019 to 2021, I was a CMI and Resnick postdoc in the CMS Department of California Institute of Technology, working with Prof. Steven Low and Prof. Adam Wierman. I obtained my Ph.D. degree from Harvard SEAS working with Prof. Na Li in 2019. I obtained my B.S. degree from Tsinghua University in Beijing, China in 2014. 
+I am an associate professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University.
 
-I am broadly interested in machine learning and decision making/control. My recent interest focuses on developing fundamental principles of machine learning and GenAI to make them interpretable, safe, and scalable. Coming from a traditional control background, I have also been interested in developing theories that make machine learning applicable in control of real-world large scale engineering systems. My research is interdisciplinary in nature that develops new mathematical tools in machine/reinforcement learning, control theory, optimization, network science.
+I am broadly interested in machine learning, decision making, and control. My recent interest focuses on developing *fundamental principles and scientific understandings of GenAI* to make them interpretable, safe, and scalable. For a taste of this line of work, see [here](/ret/). I have also been interested in the interplay between learning and control, developing theories that make machine learning applicable in control of real-world large scale engineering systems. See [here](/structure_exploiting_rl/) for example projects. 
 
-My CV can be found [here](https://drive.google.com/file/d/1BXXjsoB8kdrtckRBh8Xh7bh8a9RZTzzU/view?usp=sharing) (updated in Feb 2026).
+My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ42XbqWxkaNPe/view?usp=sharing) (updated in May 2026).
 
 
 
 ### Recent updates 
+- June 2026: Invited tutorial and workshop talks at SIGMETRICS 2026. 
+- May 2026: Excited to release new preprint on [Effective Theory of LLMs](https://arxiv.org/abs/2605.09294), check out [\[project website\]](/ret/) for more details and demos!
+-May 2026: New preprints on [Multi-Step Policy Gradient](https://arxiv.org/abs/2605.10909), [Emergent and Subliminal Misalignment](https://arxiv.org/abs/2605.12798)!
 - April 2026: New ICML paper on [emergent misalignment](https://arxiv.org/pdf/2602.00767)
 - April 2026: Received new grant from [MFI](https://engineering.cmu.edu/mfi/index.html)!
+- March 2026: Paper on [transformer for networked control with long-range interactions](https://arxiv.org/abs/2511.13103) accepted to ECC 2026. See you in Iceland!
 - Feb 2026: I have been promoted to Associate Professor of ECE, effective on July 1, 2026!
 - Jan 2026 New papers accepted to ICLR 2026 on [internal planning in LLMs](https://arxiv.org/abs/2509.25260), [generative control](https://arxiv.org/pdf/2512.01809), [riemannian diffusion](https://arxiv.org/abs/2601.02499)
-- Dec 2025: I gave a tutorial in DCD on Sampling-based Control. 
+- Dec 2025: I gave a tutorial in CDC on Sampling-based Control. 
 - Dec 2025: New papers accepted to NeurIPS 2025 on [mean-field MARL](https://openreview.net/forum?id=CTsdZ3j6dR) (**Spotlight**)  and [stabilizing linear systems](https://arxiv.org/pdf/2503.16756)
-- Nov 2025: New preprint on [transformer for networked control with long-range interactions](https://arxiv.org/abs/2511.13103)
 - Aug 2025: Received new NSF grant on sampling-based control. 
 - Aug 2025: Received new PITA grant. 
 - July 2025: New paper accepted to ICML 2025 on [theoretical study of (hyper) self-attention](https://arxiv.org/pdf/2506.06179?)
