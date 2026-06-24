@@ -71,6 +71,41 @@ html[data-theme="dark"] .theme-toggle .theme-toggle__sun {
 }
 
 /* --------------------------------------------------------------------------
+   Grouped "special project" nav items (RET, Structure-Exploiting ML)
+   -------------------------------------------------------------------------- */
+
+/* small uppercase label that introduces the project group, with a divider */
+.masthead__group-label {
+  padding-left: 1rem;
+  margin-left: 0.5rem;
+  font-size: 0.62em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #9aa3af;
+  border-left: 1px solid rgba(0, 0, 0, 0.18);
+  pointer-events: none;
+}
+
+/* the project links themselves, in the site accent color */
+.masthead__menu-item--project a {
+  color: #8b1a1a;
+  font-weight: 700;
+}
+
+.greedy-nav .masthead__menu-item--project a:before {
+  background: #8b1a1a;
+}
+
+/* dropdown (overflow) variant */
+.greedy-nav .hidden-links .masthead__group-label {
+  border-left: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  margin-left: 0;
+  padding: 6px 20px 4px;
+}
+
+/* --------------------------------------------------------------------------
    Dark palette
    -------------------------------------------------------------------------- */
 
@@ -187,6 +222,25 @@ html[data-theme="dark"] .greedy-nav .hidden-links a:hover {
 html[data-theme="dark"] .greedy-nav button {
   background-color: var(--dt-gold);
   color: var(--dt-bg);
+}
+
+/* grouped project nav items in dark mode */
+html[data-theme="dark"] .masthead__group-label {
+  color: var(--dt-muted);
+  border-left-color: rgba(216, 181, 104, 0.3);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links .masthead__group-label {
+  border-left: 0;
+  border-bottom-color: var(--dt-border-2);
+}
+
+html[data-theme="dark"] .masthead__menu-item--project a {
+  color: var(--dt-gold);
+}
+
+html[data-theme="dark"] .greedy-nav .masthead__menu-item--project a:before {
+  background: var(--dt-gold);
 }
 
 html[data-theme="dark"] .theme-toggle {

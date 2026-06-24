@@ -17,7 +17,10 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% if link.group_label %}
+              <li class="masthead__menu-item masthead__group-label" aria-hidden="true">{{ link.group_label }}</li>
+            {% endif %}
+            <li class="masthead__menu-item{% if link.project %} masthead__menu-item--project{% endif %}"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

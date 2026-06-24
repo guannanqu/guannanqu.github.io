@@ -3,20 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "RET"
-    url: /ret/
-
   - title: "People"
     url: /people/
 
   - title: "Research"
-    url: /research/    
+    url: /research/
 
-  - title: "Structure-Exploiting ML"
-    url: /structure_exploiting_rl/    
-  
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  # Special project pages, grouped together at the end of the menu
+  - title: "RET"
+    url: /ret/
+    project: true
+    group_label: "Projects"
+
+  - title: "Structure-Exploiting RL"
+    url: /structure_exploiting_rl/
+    project: true
     
         
   #- title: "Blog Posts"
