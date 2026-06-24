@@ -1,0 +1,349 @@
+/* ==========================================================================
+   Dark theme + light/dark toggle
+   --------------------------------------------------------------------------
+   Loaded on every page (after main.css). Only rules scoped to
+   html[data-theme="dark"] change colors; the .theme-toggle rules style the
+   toggle control in both themes. Light mode is unchanged.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Theme toggle control (visible in both light and dark mode)
+   -------------------------------------------------------------------------- */
+
+.masthead__inner-wrap {
+  position: relative;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 0.5em;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.1em;
+  height: 2.1em;
+  padding: 0;
+  font-size: 1em;
+  line-height: 1;
+  color: #7a8288;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 30;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.theme-toggle:hover {
+  background: rgba(0, 0, 0, 0.06);
+  color: #52adc8;
+}
+
+.theme-toggle:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(82, 173, 200, 0.5);
+}
+
+/* keep room on the right of the nav so links never slide under the toggle */
+.greedy-nav {
+  padding-right: 3.2em;
+}
+
+/* push the overflow ("hamburger") button left of the toggle when it appears */
+.greedy-nav button {
+  right: 3em;
+}
+
+/* show the right icon for the current theme */
+.theme-toggle .theme-toggle__sun {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-toggle .theme-toggle__moon {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-toggle .theme-toggle__sun {
+  display: inline;
+}
+
+/* --------------------------------------------------------------------------
+   Dark palette
+   -------------------------------------------------------------------------- */
+
+html[data-theme="dark"] {
+  --dt-bg:        #0a1426;
+  --dt-bg-2:      #0e1d39;
+  --dt-panel:     rgba(255, 255, 255, 0.03);
+  --dt-border:    rgba(216, 181, 104, 0.18);
+  --dt-border-2:  rgba(255, 255, 255, 0.10);
+  --dt-text:      #c4cee0;
+  --dt-muted:     #8b97ad;
+  --dt-heading:   #f3f6fb;
+  --dt-gold:      #d8b568;
+  --dt-link:      #79b1e6;
+  --dt-link-hover:#a9cdf0;
+  --dt-code-bg:   #0c1a30;
+}
+
+/* Base surfaces ---------------------------------------------------------- */
+
+html[data-theme="dark"] body {
+  background-color: var(--dt-bg);
+  background-image: linear-gradient(180deg, #0a1426 0%, #0e1d39 55%, #0a1426 100%);
+  background-attachment: fixed;
+  color: var(--dt-text);
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] strong,
+html[data-theme="dark"] b {
+  color: var(--dt-heading);
+}
+
+html[data-theme="dark"] .page__meta,
+html[data-theme="dark"] .page__date,
+html[data-theme="dark"] .breadcrumbs {
+  color: var(--dt-muted);
+}
+
+/* Links ------------------------------------------------------------------ */
+
+html[data-theme="dark"] a,
+html[data-theme="dark"] .page__content a {
+  color: var(--dt-link);
+}
+
+html[data-theme="dark"] a:visited {
+  color: var(--dt-link);
+}
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] .page__content a:hover {
+  color: var(--dt-link-hover);
+}
+
+/* Masthead / navigation -------------------------------------------------- */
+
+html[data-theme="dark"] .masthead {
+  background-color: rgba(8, 16, 33, 0.92);
+  border-bottom: 1px solid var(--dt-border);
+}
+
+html[data-theme="dark"] .greedy-nav {
+  background: transparent;
+}
+
+html[data-theme="dark"] .greedy-nav a {
+  color: #c9d3e3;
+}
+
+html[data-theme="dark"] .greedy-nav a:hover {
+  color: var(--dt-gold);
+}
+
+/* site title (first, large nav item) in gold */
+html[data-theme="dark"] .masthead__menu-item--lg a {
+  color: var(--dt-gold);
+}
+
+/* hover underline accent in gold */
+html[data-theme="dark"] .greedy-nav .visible-links a:before {
+  background: var(--dt-gold);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+  background: var(--dt-bg-2);
+  border-color: var(--dt-border);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:after {
+  border-color: var(--dt-bg-2) transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:before {
+  border-color: var(--dt-border) transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links li {
+  border-bottom-color: var(--dt-border-2);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links a:hover {
+  color: var(--dt-gold);
+  background: rgba(216, 181, 104, 0.12);
+}
+
+html[data-theme="dark"] .greedy-nav button {
+  background-color: var(--dt-gold);
+  color: var(--dt-bg);
+}
+
+html[data-theme="dark"] .theme-toggle {
+  color: var(--dt-gold);
+}
+
+html[data-theme="dark"] .theme-toggle:hover {
+  color: var(--dt-link-hover);
+  background: rgba(216, 181, 104, 0.14);
+}
+
+/* Sidebar / author profile ----------------------------------------------- */
+
+html[data-theme="dark"] .author__name {
+  color: var(--dt-heading);
+}
+
+html[data-theme="dark"] .author__avatar img {
+  border-color: var(--dt-gold) !important;
+}
+
+/* dropdown shown on small screens */
+html[data-theme="dark"] .author__urls {
+  background: var(--dt-bg-2);
+  border-color: var(--dt-border);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+}
+
+html[data-theme="dark"] .author__urls:after {
+  border-color: var(--dt-bg-2) transparent;
+}
+
+html[data-theme="dark"] .author__urls:before {
+  border-color: var(--dt-border) transparent;
+}
+
+/* "card" panels on wider screens to match the layered dark look */
+@media screen and (min-width: 64em) {
+  html[data-theme="dark"] .sidebar {
+    background: var(--dt-panel);
+    border: 1px solid var(--dt-border);
+    border-radius: 12px;
+    padding: 1.25em 1em;
+  }
+
+  html[data-theme="dark"] .page,
+  html[data-theme="dark"] .archive {
+    background: var(--dt-panel);
+    border: 1px solid var(--dt-border);
+    border-radius: 12px;
+    padding-top: 1.25em;
+    padding-bottom: 1.5em;
+  }
+}
+
+/* Buttons ---------------------------------------------------------------- */
+
+html[data-theme="dark"] .btn--inverse {
+  color: var(--dt-text);
+  border-color: var(--dt-border);
+  background-color: transparent;
+}
+
+html[data-theme="dark"] .btn--inverse:hover {
+  color: var(--dt-bg);
+  background-color: var(--dt-gold);
+}
+
+/* Footer ----------------------------------------------------------------- */
+
+html[data-theme="dark"] .page__footer {
+  background-color: #08111f;
+  color: var(--dt-muted);
+  border-top: 1px solid var(--dt-border);
+}
+
+html[data-theme="dark"] .page__footer a,
+html[data-theme="dark"] .page__footer .fas,
+html[data-theme="dark"] .page__footer .fab,
+html[data-theme="dark"] .page__footer .far {
+  color: var(--dt-muted);
+}
+
+/* Code, quotes, rules ---------------------------------------------------- */
+
+html[data-theme="dark"] code {
+  background: rgba(255, 255, 255, 0.08);
+  color: #e6c98a;
+}
+
+html[data-theme="dark"] pre,
+html[data-theme="dark"] div.highlighter-rouge,
+html[data-theme="dark"] figure.highlight,
+html[data-theme="dark"] .highlight {
+  background-color: var(--dt-code-bg);
+  color: var(--dt-text);
+}
+
+html[data-theme="dark"] pre code {
+  background: transparent;
+  color: var(--dt-text);
+}
+
+html[data-theme="dark"] blockquote {
+  color: var(--dt-muted);
+  border-left-color: var(--dt-gold);
+}
+
+html[data-theme="dark"] hr {
+  border-color: var(--dt-border);
+}
+
+/* Tables (publications, teaching, etc.) ---------------------------------- */
+
+html[data-theme="dark"] table {
+  color: var(--dt-text);
+}
+
+html[data-theme="dark"] thead th,
+html[data-theme="dark"] th {
+  background-color: #13243f;
+  color: var(--dt-heading);
+  border-color: var(--dt-border);
+}
+
+html[data-theme="dark"] td {
+  border-color: var(--dt-border-2);
+}
+
+html[data-theme="dark"] tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* "Recent updates" date column (inline blue in the markup) */
+html[data-theme="dark"] .updates-table td[style*="700"] {
+  color: #7fb3e6 !important;
+}
+
+/* Notices ---------------------------------------------------------------- */
+
+html[data-theme="dark"] .notice,
+html[data-theme="dark"] .notice--primary,
+html[data-theme="dark"] .notice--info,
+html[data-theme="dark"] .notice--warning,
+html[data-theme="dark"] .notice--success,
+html[data-theme="dark"] .notice--danger {
+  background-color: var(--dt-bg-2);
+  color: var(--dt-text);
+}
+
+/* Smooth transition when toggling */
+body,
+.masthead,
+.page__footer,
+.sidebar,
+.page,
+.archive {
+  -webkit-transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease;
+          transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease;
+}
