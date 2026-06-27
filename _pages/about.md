@@ -39,6 +39,10 @@ My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ4
 <table class="updates-table" style="width:100%; border-collapse:collapse; font-size:1em; line-height:1.45;">
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Jun 2026</td>
+    <td style="padding:0.2rem 0;">Received a new gift from <a href="https://www.janestreet.com/">Jane Street</a>! </td>
+  </tr>
+  <tr>
+    <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Jun 2026</td>
     <td style="padding:0.2rem 0;">Paper on <a href="https://arxiv.org/abs/2511.13103">transformers for networked control with long-range interactions</a> has been selected for <strong>Best Student Paper Award</strong> for <a href="https://ecc26.euca-ecc.org/best-student-paper/">ECC 2026</a>! Congratulations to our student authors, Vidur and Muhammed!</td>
   </tr>
   <tr>
