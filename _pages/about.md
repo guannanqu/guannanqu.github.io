@@ -18,7 +18,9 @@ Office: Porter B22
 
 I am an associate professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University.
 
-I am broadly interested in machine learning, decision making, and control. My recent interest focuses on developing *fundamental principles and scientific understandings of GenAI* to make them interpretable, safe, and scalable. For a taste of this line of work, see [here](/ret/). I have also been interested in the interplay between learning and control, developing theories that make machine learning applicable in control of real-world large scale engineering systems. See [here](/structure_exploiting_rl/) for example projects. 
+I am broadly interested in machine learning, decision making, and control. My recent interest focuses on developing *fundamental principles and scientific understandings of GenAI* towards interpretability, safety, and scalability. For a taste of this line of work, see [here](/ret/). I have also been interested in the interplay between learning and control, developing theories that make machine learning applicable in control of real-world large scale engineering systems. See [here](/structure_exploiting_rl/) for example projects. 
+
+My work has been supported by multiple NSF grants, Amazon, Jane Street, C3 AI Institute, MFI, PITA, Cylab, among others. My work has been recognized with an CAREER Award and multiple best (student) paper awards or finalists, including ECC 2026, ICRA 2025, AAAI 2025 Workshop on Multi-Agent AI in the Real World, IEEE Transactions on Smart Grid, among others.
 
 My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ42XbqWxkaNPe/view?usp=sharing) (updated in May 2026).
 
