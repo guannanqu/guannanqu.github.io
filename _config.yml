@@ -83,7 +83,7 @@ author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.jpeg"
   bio              : "Associate Professor of ECE at CMU"
-  location         : "Pittsburgh, PA"
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oFIXoy8AAAAJ&hl=en&oi=ao"

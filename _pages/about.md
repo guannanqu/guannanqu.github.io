@@ -13,10 +13,6 @@ Associate Professor
 Department of Electrical and Computer Engineering  
 Carnegie Mellon University  
 Contact: gqu [at] andrew.cmu.edu  
-Office: Porter B22
-
-
-I am an associate professor at the Department of Electrical and Computer Engineering at Carnegie Mellon University.
 
 I am broadly interested in machine learning, decision making, and control. My recent interest focuses on developing *fundamental principles and scientific understandings of GenAI* towards interpretability, safety, and scalability. For a taste of this line of work, see [here](/ret/). I have also been interested in the interplay between learning and control, developing theories that make machine learning applicable in control of real-world large scale engineering systems. See [here](/structure_exploiting_rl/) for example projects. 
 
