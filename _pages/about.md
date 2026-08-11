@@ -36,6 +36,14 @@ My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ4
 
 <table class="updates-table" style="width:100%; border-collapse:collapse; font-size:1em; line-height:1.45;">
   <tr>
+    <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Aug 2026</td>
+    <td style="padding:0.2rem 0;">Received FY2026 Air Force Office of Scientific Research Young Investigator Program (AFOSR YIP) Award.  </td>
+  </tr>
+  <tr>
+    <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">July 2026</td>
+    <td style="padding:0.2rem 0;">Gave an invited tutorial on <a href="/files/dynamical_system_LLM_2026.pdf">dynamical systems perspectives of LLM</a> in ECC 2026. </td>
+  </tr>
+  <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Jun 2026</td>
     <td style="padding:0.2rem 0;">Received a new gift from <a href="https://www.janestreet.com/">Jane Street</a>! </td>
   </tr>
