@@ -172,6 +172,8 @@ author_profile: true
 **Master Students**
 - Yumeng Xiu (next position: CMU PhD)
 - Eric Xu (next position: UC Berkeley EECS PhD)
+
+
 **Selected Visitors**
 - Han Xu (Master visiting student, next position: Caltech PhD)
 - Junxuan Shen (Undergrad visiting student from Caltech, next position: MIT EECS PhD)
