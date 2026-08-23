@@ -1,0 +1,106 @@
+# People page data — current PhD students.
+# Fields (all optional except name/start):
+#   photo:     filename under /images/  e.g. "people/alex.jpg". Blank -> initials placeholder.
+#   start:     starting term, e.g. "Fall 2022"
+#   coadvisor: co-advisor name, or blank if solely advised
+#   honors:    list of honors/fellowships (optional)
+#   email:     full email address (renders a mail icon)
+#   homepage:  personal website URL (renders a globe icon)
+#   scholar:   Google Scholar URL (optional)
+#   github:    GitHub URL (optional)
+# Cards render in the order listed below (currently senior-first).
+
+phd:
+  - name: "Alex DeWeese"
+    photo: "people/alex-deweese.jpeg"
+    photo_pos: "center 30%"
+    start: "Fall 2022"
+    coadvisor:
+    honors:
+      - "Leo Finzi Memorial Fellowship (2024)"
+      - "David H. Barakat and LaVerne Owen-Barakat CIT Dean’s Fellowship (2025)"
+      - "Fritsch Family Fellowship (2026)"
+    email: "mdeweese@andrew.cmu.edu"
+    homepage: "https://www.linkedin.com/in/alex-deweese/"
+    scholar:
+    github:
+
+  - name: "Ziyi Zhang"
+    photo: "people/ziyi-zhang.jpg"
+    photo_pos: "center 30%"
+    start: "Fall 2022"
+    coadvisor: "Yorie Nakahira"
+    honors: 
+      - "Lee-Stanziale Ohana Fellowship (2026)"
+    email: "ziyizhan@andrew.cmu.edu"
+    homepage: "https://ziyi-zhang.com/"
+    scholar:
+    github:
+
+  - name: "Chaoyi Pan"
+    photo: "people/chaoyi-pan.jpg"
+    photo_pos: "center 25%"
+    start: "Fall 2023"
+    coadvisor: "Guanya Shi"
+    honors:
+      - "Hsu Chang Memorial Fellowship (2025)"
+      - "ICRA Best Paper Finalist (2025)"
+      - "William J. Happel Fellowship (2026)"
+    email: "chaoyip@andrew.cmu.edu"
+    homepage: "https://panchaoyi.com/"
+    scholar:
+    github:
+
+  - name: "Zeji Yi"
+    photo: "people/zeji-yi.jpg"
+    photo_pos: "center 35%"
+    start: "Fall 2023"
+    coadvisor: "Guanya Shi"
+    honors:
+      - "Wei Shen and Xuehong Zhang Presidential Fellowship (2025)"
+      - "ICRA Best Paper Finalist (2025)"
+      - "Amazon PhD Fellowship (2025 - 2027)"
+    email: "zejiy@andrew.cmu.edu"
+    homepage: "https://iscoyizj.github.io/"
+    scholar:
+    github:
+
+  - name: "Muhammed Ustaömeroğlu"
+    photo: "people/muhammed-ustaomeroglu.jpg"
+    photo_pos: "25% center"
+    start: "Fall 2023"
+    coadvisor:
+    honors: 
+      - "Leo Finzi Memorial Fellowship (2026)"
+      - "ECC Best Student Paper (2026)"
+      - "Cylab Presidential Fellowship (2026 - 2027)"
+
+    email: "mustaome@andrew.cmu.edu"
+    homepage: "https://ustaomeroglu.github.io/"
+    scholar:
+    github:
+  
+  - name: "Vidur Sinha"
+    photo: "people/vidur-sinha.jpeg"
+    photo_pos: "center 30%"
+    start: "Fall 2026"
+    coadvisor:
+    honors: 
+      - "ECC Best Student Paper (2026)"
+
+    email: "vidursin@andrew.cmu.edu"
+    homepage: "https://www.linkedin.com/in/vidur-sinha/"
+    scholar:
+    github:
+  - name: "Nai-Chieh Huang"
+    photo: "people/nai-chieh-huang.jpg"
+    photo_pos: "center 30%"
+    program: "MLD PhD Student"
+    start: "Fall 2025"
+    coadvisor: "Max Simchowitz"
+    note: "Co-advising since Fall 2026"
+    honors: []
+    email: "naichieh@andrew.cmu.edu"
+    homepage: "https://colder66.github.io/"
+    scholar:
+    github:
