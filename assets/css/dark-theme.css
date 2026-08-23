@@ -293,6 +293,9 @@ html[data-theme="dark"] .author__urls:before {
     border-radius: 12px;
     padding-top: 1.25em;
     padding-bottom: 1.5em;
+    /* symmetric horizontal padding (overrides susy's left-only prefix indent) */
+    padding-left: 1.75em;
+    padding-right: 1.75em;
   }
 }
 
