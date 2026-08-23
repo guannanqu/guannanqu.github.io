@@ -18,7 +18,7 @@ I am broadly interested in machine learning, decision making, and control. My re
 
 My work has been supported by multiple NSF grants, Air Force Office of Scientific Research, Amazon, Jane Street, C3 AI Institute, MFI, PITA (through a Bosch collaboration), Cylab, among others. My work has been recognized with an CAREER Award, AFOSR YIP, and multiple best (student) paper awards or finalists, including ECC 2026, ICRA 2025, AAAI 2025 Workshop on Multi-Agent AI in the Real World, IEEE Transactions on Smart Grid, among others.
 
-My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ42XbqWxkaNPe/view?usp=sharing) (updated in May 2026).
+My CV can be found [here](https://drive.google.com/file/d/192wcvLPl9j6o95qUweFfsY1lpSsUQjcs/view?usp=sharing) (updated in Aug 2026).
 
 
 
@@ -35,6 +35,15 @@ My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ4
 </style>
 
 <table class="updates-table" style="width:100%; border-collapse:collapse; font-size:1em; line-height:1.45;">
+  <tr>
+    <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Aug 2026</td>
+    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/pdf/2608.17928">preprint</a> on <strong>GD-RHCR</strong>, a novel decentralized L-MAPF method motivated by our <a href="https://arxiv.org/pdf/2406.06823">LIMDP</a> theory.  </td>
+  </tr>
+  <tr>
+    <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Aug 2026</td>
+    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/pdf/2608.19491">preprint</a> on <strong>DeltaMomentum</strong>, a redesign of the momemtum used in common optimizers to cope with anisotropic features.  </td>
+  </tr>
+
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Aug 2026</td>
     <td style="padding:0.2rem 0;">Received FY2026 Air Force Office of Scientific Research Young Investigator Program (AFOSR YIP) Award.  </td>
@@ -57,7 +66,7 @@ My CV can be found [here](https://drive.google.com/file/d/1PR88wpcW6i8LiJXa7qCZ4
   </tr>
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">May 2026</td>
-    <td style="padding:0.2rem 0;">Released new preprint on <a href="https://arxiv.org/abs/2605.09294">Effective Theory of LLMs</a>; see the <a href="/ret/">project website</a> for details and demos.</td>
+    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/abs/2605.09294">preprint</a> on <strong>Effective Theory of LLMs</strong>; see the <a href="/ret/">project website</a> for details and demos.</td>
   </tr>
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">May 2026</td>

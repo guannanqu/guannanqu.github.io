@@ -4,13 +4,33 @@
 #         multi-agent, control, robotics, optimization, power-systems
 #   wrap the author name in **...** to bold it (keep **Guannan Qu**)
 
-- title: "DeltaMomentum: A Key-Value Based Anisotropic Momentum Update via Delta Rule"
-  authors: "Euijin Hong, **Guannan Qu**"
-  venue: "Under review, 2026"
+- title: "Hybrid Feedback Sampling for Sample-Efficient Model Predictive Control"
+  authors: "Chaoyi Pan, Zeji Yi, John Zhang, Zachary Manchester, **Guannan Qu**, Guanya Shi"
+  venue: "arXiv:2608.19443, 2026"
   year: 2026
   highlighted: false
+  tags: [control, robotics, optimization]
+  links:
+  - text: "link"
+    url: "https://arxiv.org/abs/2608.19443"
+- title: "A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning"
+  authors: "Alex DeWeese, Jiaoyang Li, **Guannan Qu**"
+  venue: "arXiv:2608.17928, 2026"
+  year: 2026
+  highlighted: true
+  tags: [multi-agent, theory, reinforcement-learning]
+  links:
+  - text: "link"
+    url: "https://arxiv.org/abs/2608.17928"
+- title: "DeltaMomentum: A Key-Value Based Anisotropic Momentum Update via Delta Rule"
+  authors: "Euijin Hong, **Guannan Qu**"
+  venue: "arXiv:2608.19491, 2026"
+  year: 2026
+  highlighted: true
   tags: [llm, optimization]
-  links: []
+  links:
+  - text: "link"
+    url: "https://arxiv.org/abs/2608.19491"
 - title: "Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer"
   authors: "Baris Askin, Muhammed Ustaomeroglu, Anupam Nayak, Gauri Joshi, **Guannan Qu**, Carlee Joe-Wong"
   venue: "arXiv:2605.12798, 2026"
@@ -49,7 +69,7 @@
   links:
   - text: "link"
     url: "https://arxiv.org/abs/2602.13212"
-- title: "BLOCK-EM: Preventing Emergent Misalignment by Blocking Causal Features"
+- title: "BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking"
   authors: "Muhammed Ustaomeroglu, **Guannan Qu**"
   venue: "ICML, 2026"
   year: 2026
@@ -104,6 +124,33 @@
   links:
   - text: "link"
     url: "https://arxiv.org/abs/2511.13103"
+- title: "Global Convergence of Sampling-Based Nonconvex Optimization through Diffusion-Style Smoothing"
+  authors: "Zeji Yi, Chaoyi Pan, Guanya Shi, **Guannan Qu**"
+  venue: "Transactions on Machine Learning Research (TMLR), 2026"
+  year: 2026
+  highlighted: false
+  tags: [optimization, diffusion, control, theory]
+  links:
+  - text: "link"
+    url: "https://arxiv.org/abs/2605.16520"
+- title: "Whole-Body Model-Predictive Control of Legged Robots with MuJoCo"
+  authors: "John Z. Zhang, Taylor A. Howell, Zeji Yi, Chaoyi Pan, Guanya Shi, **Guannan Qu**, Tom Erez, Yuval Tassa, Zachary Manchester"
+  venue: "ICRA, 2026"
+  year: 2026
+  highlighted: false
+  tags: [control, robotics, optimization]
+  links:
+  - text: "link"
+    url: "https://arxiv.org/abs/2503.04613"
+- title: "Natural Policy Gradient for Average Reward Non-Stationary RL"
+  authors: "Neharika Jali, Eshika Pathak, Pranay Sharma, **Guannan Qu**, Gauri Joshi"
+  venue: "Transactions on Machine Learning Research (TMLR), 2026"
+  year: 2026
+  highlighted: false
+  tags: [reinforcement-learning, theory]
+  links:
+  - text: "link"
+    url: "https://openreview.net/pdf?id=GGZISiwgNt"
 - title: "Physics-Informed RL for Real-World HVAC Controls: Lessons from Imitation to Deployment"
   authors: "Ozan Baris Mulayim, **Guannan Qu**, Kevin J. Kircher, Mario Bergés"
   venue: "Under review, 2025"
@@ -129,31 +176,6 @@
   links:
   - text: "link"
     url: "https://arxiv.org/abs/2506.04215"
-- title: "Whole-Body Model-Predictive Control of Legged Robots with MuJoCo"
-  authors: "John Z. Zhang, Taylor A. Howell, Zeji Yi, Chaoyi Pan, Guanya Shi, **Guannan Qu**, Tom Erez, Yuval Tassa, Zachary Manchester"
-  venue: "Under review, 2025"
-  year: 2025
-  highlighted: false
-  tags: [control, robotics, optimization]
-  links:
-  - text: "link"
-    url: "https://arxiv.org/abs/2503.04613"
-- title: "FS-MPC: Stabilizing Sampling-Based MPC with Adaptive Feedback Design"
-  authors: "Chaoyi Pan, Zeji Yi, John Zhang, Zachary Manchester, **Guannan Qu**, Guanya Shi"
-  venue: "Under review, 2025"
-  year: 2025
-  highlighted: false
-  tags: [control, robotics, optimization]
-  links: []
-- title: "Natural Policy Gradient for Average Reward Non-Stationary RL"
-  authors: "Neharika Jali, Eshika Pathak, Pranay Sharma, **Guannan Qu**, Gauri Joshi"
-  venue: "Transactions on Machine Learning Research (TMLR), 2025"
-  year: 2025
-  highlighted: false
-  tags: [reinforcement-learning, theory]
-  links:
-  - text: "link"
-    url: "https://openreview.net/pdf?id=GGZISiwgNt"
 - title: "Stabilizing Linear Systems under Partial Observability: Sample Complexity and Fundamental Limits"
   authors: "Ziyi Zhang, Yorie Nakahira, **Guannan Qu**"
   venue: "NeurIPS, 2025"
