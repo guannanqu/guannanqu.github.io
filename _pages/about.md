@@ -37,11 +37,11 @@ My CV can be found [here](https://drive.google.com/file/d/192wcvLPl9j6o95qUweFfs
 <table class="updates-table" style="width:100%; border-collapse:collapse; font-size:1em; line-height:1.45;">
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Aug 2026</td>
-    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/pdf/2608.17928">preprint</a> on <strong>GD-RHCR</strong>, a novel decentralized L-MAPF method motivated by our <a href="https://arxiv.org/pdf/2406.06823">LIMDP</a> theory.  </td>
+    <td style="padding:0.2rem 0;"> <a href="https://arxiv.org/pdf/2608.17928">Preprint</a> on <strong>GD-RHCR</strong>, a novel decentralized L-MAPF method motivated by our <a href="https://arxiv.org/pdf/2406.06823">LIMDP</a> theory.  </td>
   </tr>
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">Aug 2026</td>
-    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/pdf/2608.19491">preprint</a> on <strong>DeltaMomentum</strong>, a redesign of the momemtum used in common optimizers to cope with anisotropic features.  </td>
+    <td style="padding:0.2rem 0;"> <a href="https://arxiv.org/pdf/2608.19491">Preprint</a> on <strong>Activation-Keyed Momentum</strong>, a redesign of the momemtum used in common optimizers to cope with anisotropic features.  </td>
   </tr>
 
   <tr>
@@ -66,7 +66,7 @@ My CV can be found [here](https://drive.google.com/file/d/192wcvLPl9j6o95qUweFfs
   </tr>
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">May 2026</td>
-    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/abs/2605.09294">preprint</a> on <strong>Effective Theory of LLMs</strong>; see the <a href="/ret/">project website</a> for details and demos.</td>
+    <td style="padding:0.2rem 0;">Released <a href="https://arxiv.org/abs/2605.09294">preprint</a> on <strong>Effective Theory of LLMs</strong>, proposing a dynamical system perspective of LLM; see the <a href="/ret/">project website</a> for details and demos.</td>
   </tr>
   <tr>
     <td style="width:120px; padding:0.2rem 0.4rem 0.2rem 0; font-weight:700; color:#2a5ca8; vertical-align:top;">May 2026</td>
